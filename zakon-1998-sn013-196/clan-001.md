@@ -1,0 +1,2 @@
+Članak 1.
+Prekršaji protiv javnog reda i mira su djela kojima se na nedozvoljen način remeti mir, red ili normalan način života građana, stvara nemir, neraspoloženje, uznemirenost ili ometa kretanje građana na ulicama i drugim javnim mjestima ili ometa ostvarivanje njihovih prava i dužnosti, vrijeđa moral, ometa vršenje zakonitih mjera državnih tijela i službenih osoba, ugrožava opća sigurnost ljudi i imovine, vrijeđaju državna tijela, ili se na drugi način narušava javni red i mir građana te djela utvrđena ovim Zakonom.
