@@ -1,0 +1,4 @@
+Otklanjanje nepravilnosti
+Članak 63.
+(1) U provođenju nadzora građevinski inspektor ima pravo i dužnost narediti vlasniku postojeće građevine odnosno upravitelju stambene zgrade otklanjanje nedostataka na građevini koji su nastali ili su uočeni tijekom njezinog korištenja, ako utvrdi da ti nedostaci mogu ugroziti stabilnost građevine ili susjednih građevina ili život i zdravlje ljudi. Građevinski inspektor može ujedno narediti i hitne mjere osiguranja do izvršenja naloga kada ocijeni da je to potrebno.
+(2) U provođenju nadzora građevinski inspektor ima pravo i dužnost narediti vlasniku postojeće građevine da otkloni nedostatke na građevini koji su nastali ili su uočeni tijekom njezinog korištenja, ako utvrdi da ti nedostaci mogu ugroziti stabilnost građevine ili susjednih građevina, život i zdravlje ljudi.
