@@ -1,0 +1,1 @@
+Na temelju članka 26. točke e. Ustava Hercegbosanske županije ("Narodne novine Hercegbosanske županije", broj: 3/96), Skupština Hercegbosanske županije, na sjednici od 24. 07. 2003. godine donijela je
