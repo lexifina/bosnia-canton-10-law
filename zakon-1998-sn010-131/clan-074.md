@@ -1,0 +1,2 @@
+Članak 74.
+Na poljoprivrednom zemljištu gdje je izvršena eksploatacija industrijskih i ostalih mineralnih tvari prije stupanja na snagu ovog Zakona, korisnici ovih sirovina dužni su da u roku od pet godina izvrše rekultiviranje tog zemljišta i privesti ga prvobitnoj namjeni po Projektu o rekultivaciju u roku od tri mjeseca od dana stupanja na snagu ovog Zakona, a sukladno s člankom 17. ovog Zakona.

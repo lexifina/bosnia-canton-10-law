@@ -1,0 +1,2 @@
+Članak 20.
+Županijski i općinski organ uprave mjerodavan za izdavanje odobrenja za izgradnju objekata ili izvedbu radova, odnosno za izdavanje odobrenja za eksploataciju industrijskih i ostalih mineralnih tvari površinskim i podzemnim kopom, odlaganje jalovine, pepela, šljake i sl., može izdati odobrenje ako je investitor, odnosno korisnik priložio dokaze o plaćenoj naknadi za promjenu namjene poljoprivrednog zemljišta.

@@ -1,0 +1,3 @@
+Članak 67.
+Novčanom kaznom od 200 do 500 KM, kaznit će se za prekršaj odgovorna osoba u organu uprave ako se ne vode evidencije o neobradivom zemljištu i zemljištu koje je promijenilo namjenu i osoba mjerodavna za izdavanje odobrenja za izgradnju objekata ili izvođenje radova, odnosno izdavanje rješenja za eksploataciju industrijskih i ostalih mineralnih tvari, odlaganje jalovine, pepela, šljake i drugih štetnih i opasnih tvari, ako izda odobrenje za izgradnju objekata, odnosno izvođenje radova bez dokaza o plaćenoj naknadi za projmjenu namjene poljoprivrednog zemljišta i ako izvrši (cijepanje) fizičku diobu parcela manju od 0,5 ha, odnosno 0,2 (Članak 5. stavak 2., Članak
+20. i Članak 25. stavak 2. ovog Zakona).

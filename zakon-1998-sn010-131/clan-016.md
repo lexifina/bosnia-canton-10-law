@@ -1,0 +1,3 @@
+Članak 16.
+Pored plaćanja naknade iz članka 15. ovog Zakona, investitor je dužan prije početka izvedbe radova na poljoprivrednom zemljištu skinuti i sačuvati rodni i potencijalno rodni sloj zemljišta za potrebe rekultivacije zemljišta ili osposobljavanje manje rodnog ili nerodnog zemljišta za poljoprivrednu proizvodnju.
+Izdvojeni i sačuvani rodni i potencionalno rodni sloj zemljišta koji je skinut od izgradnje industrijskih i drugih objekata, koristi se po odobrenju županijskog organa uprave mjerodavnog za poslove poljoprivrede, za osposobljavanje manje plodnog ili neplodnog zemljišta za poljoprivrednu proizvodnju.

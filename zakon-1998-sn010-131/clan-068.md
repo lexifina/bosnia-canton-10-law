@@ -1,0 +1,2 @@
+Članak 68.
+Pored kazne za gospodarski prijestup iz članka 64., odnosno za prekršaj iz članka 65. i 66. ovog Zakona može se počinitelju izreći i zaštitna mjera oduzimanja predmeta kada su ti predmeti upotrijebljeni ili su bili namijenjeni za izvršenje ili su nastali izvršenjem privrednog prijestupa, odnosno prekršaja, kao i zaštitna mjera oduzimanja imovinske koristi postignute izvršanjem privrednog prijestupa odnosno prekršaja.
