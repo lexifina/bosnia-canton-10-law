@@ -1,0 +1,1 @@
+Na temelju članka 26. točke e) Ustava Hercegbosanske županije ("Narodne novine HBŽ", broj 3/96) i članka 98. Poslovnika Skupštine Hercegbosanske županije ("Narodne novine HBŽ", broj 8/03), Skupština HBŽ na sjednici održanoj dana 20.02.2004. godine donosi
