@@ -1,0 +1,2 @@
+Članak 21.
+Kada Vlada Županije, u uvjetima izvanrednog stanja iz članka 17. ovog Zakona intervenira sredstvima posebne namjene koja su uslijed uporabe postala neprikladna za daljnje držanje i obnavljanje u robnim rezervama, može ta sredstva, na prijedlog Županijske direkcije, dati određenim organima i organizacijama (postrojbama i stožerima civilne zaštite, Crvenom križu, humanitarnim organizacijama i udrugama) uz odgovarajuću naknadu ili bez naknade.

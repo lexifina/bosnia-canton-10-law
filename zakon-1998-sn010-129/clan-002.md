@@ -1,0 +1,3 @@
+Članak 2.
+Robnim rezervama smatraju se rezerve određenih poljoprivredno-prehrambenih i industrijskih proizvoda, sirovina i reprodukcijskog materijala, lijekova i sanitetskog materijala, novčanih sredstava kao i proizvoda za posebne namjene, koje treba osigurati Županija, općine u sastavu Županije i poduzeća od interesa za proizvodnju, nabavku i distribuciju robe za osiguranje zadovoljavanja minimalnih potreba stanovišta i gospodarstva Županije u slučaju rata i neposredne ratne opasnosti, elementarnih nepogoda i drugih izvanrednih situacija kao i za intervencije na tržištu u uvjetima većih poremećaja.
+U smislu stavka 1. ovog članka Vlada Županije će posebnim propisom utvrditi koja su poduzeća od interesa za proizvodnju, nabavku i distribuciju robe za robne rezerve.

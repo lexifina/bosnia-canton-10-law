@@ -1,0 +1,1 @@
+Na temelju članka 26. e. Ustava Hercegbosanske županije (“Narodne novine Hercegbosanske županije”, broj 3/96), a na prijedlog Vlade Hercegbosanske županije, Skupština Hercegbosanske županije na X. sjednici održanoj 16. lipnja 1998. godine, donosi

@@ -1,0 +1,2 @@
+Članak 55.
+Novčanom kaznom od 300 do 2.000 KM kaznit će se za privredni prijestup odgovorna osoba u županijskoj Direkciji, ako robu iz robnih rezervi koristi suprotno odredbama ovog Zakona, ako robu povjeri na smještaj i čuvanje pravnoj ili fizičkoj osobi s kojom nema sklopljen ugovor ili ako ugovorom predvidi pravo prvokupa robe u korist subjekta kojem je roba povjerena na smještaj i čuvanje (Članak 25. stavak 4.).
