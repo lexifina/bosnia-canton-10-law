@@ -1,0 +1,5 @@
+Članak 71.
+Ako županijska Vlada ili ovlašteno ministarstvo ne prenesu osnivačka prava na jedinicu lokalne samouprave ili drugu pravnu osobu, županijska Vlada odnosno ovlašteno ministarstvo imenovat će upravni odbor ustanove od tri člana, od kojih najmanje jedan mora biti iz redova zaposlenih u ustanovi.
+Predstavničko tijelo jedinice lokalne samouprave, odnosno nadležno tijelo druge pravne osobe na koju su sukladno odredbama ovog zakona prenesena osnivačka prava, dužno je u roku od mjesec dana od primitka rješenja o prijenosu, odnosno od sklapanja ugovora, imenovati upravni odbor ustanove od tri člana, od kojih najmanje jedan mora biti iz redova zaposlenih u ustanovi.
+Upravni odbor iz stavka 1. i 2. ovog članka dužan je u roku od tri mjeseca od imenovanja donijeti statut i opće akte ustanove i započeti postupak za izbor, odnosno imenovanje članova tijela ustanove, sukladno zakonu i tim aktima.
+Upravni odbor imenovan po odredbama ovog članka ima prava i dužnosti upravnog vijeća, odnosno drugog kolegijalnog tijela ustanove iz članka 34. ovog zakona.
