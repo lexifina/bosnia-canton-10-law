@@ -1,0 +1,1 @@
+Na temelju članka 26. e Ustava Hercegbosanske županije (“Narodne novine Hercegbosanske županije”, broj 1/96), te članka V. 4. 11. Ustava Federacije i članaka 5. i 6. Zakona o upravnim sporovima (“Službene novine Federacije BiH”, broj 2/98), Skupština Hercegbosanske županije, na sjednici održanoj dana 9. rujna 1998. godine usvojila je
