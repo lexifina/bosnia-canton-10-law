@@ -1,0 +1,1 @@
+Na temelju članka 26. točke c) Ustava Hercegbosanske županije ("Narodne novine HBŽ" broj: 3/96, 9/00 i 9/04 ), te članka 18. Zakona o osnovama lokalne samouprave ("Službene novine F B i H" broj: 6/95 ), te članka 98. Poslovnika Skupštine HBŽ broj: 8/03, 14/03, 1104 i 6/05), Skupština Hercegbosanske županije na sjednici održanoj dana, 11. listopada 2005. godine donijela je
