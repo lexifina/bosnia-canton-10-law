@@ -1,0 +1,6 @@
+IX VRSTE ZDRAVSTVENIH USTANOVA 1. Zdravstvene ustanove primarne zdravstvene zaštite DOM ZDRAVLJA
+Članak 52.
+Dom zdravlja je zdravstvena ustanova koja ima organiziranu primarnu zdravstvenu zaštitu za područje za koje je osnovan. .
+Djelatnost doma zdravlja obuhvaća: opću medicinu, zdravstvenu zaštitu žena i djece, školsku medicinu, zdravstvenu zaštitu nespecifičnih i specifičnih plućnih oboljenja i zubno-zdravstvenu djelatnost. Na svom području dom zdravlja mora osigurati higijensko-epidemiološku djelatnost, hitnu medicinsku pomoć, laboratorijsku, radiološku i drugu dijagnostiku, ako te djelatnosti nisu organizirane u okviru druge zdravstvene ustanove.
+Dom zdravlja može organizirati, sukladno mreži zdravstvene djelatnosti, jedinice za obavljanje specijalističko-konzultativne zdravstvene djelatnosti, ako to zahtijevaju posebne potrebe i druge okolnosti koje bi mogle otežati provedbu zdravstvene zaštite, s obzirom na zdravstveno stanje pučanstva.
+U sastavu doma zdravlja, sukladno mreži zdravstvene djelatnosti, može se organizirati rodilište i stacionar za privremeni smještaj bolesnika (dnevna bolnica), te centri za fizikalnu i mentalnu rehabilitaciju, organizirani sukladno «Projektu rehabilitacije u zajednici».

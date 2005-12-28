@@ -1,0 +1,4 @@
+Članak 4.
+Vlasnici i ravnatelji poduzeća i drugih pravnih osoba, odgovorni su za primjenu mjera zdravstvene zaštite i zaštite čovjekova okoliša, odnosno radne sredine u kojoj obavljaju djelatnost.
+Dužnosti i odgovornosti iz stavka 1. ovog članka imaju građani koji obavljaju djelatnosti osobnim radom sredstvima u svojini građana i građani koji osobnim radom samostalno, u vidu zanimanja, obavljaju umjetničku ili drugu kulturnu, odvjetničku ili drugu profesionalnu djelatnost (udaljenjem tekstu: građani koji obavljaju gospodarsku ili profesionalnu djelatnost) kao i organizatori javnih priredbi i masovnih skupova u odnosu na zaštitu od zaraznih bolesti i povreda.
+Ministarstvo znanosti, prosvjete, kulture i športa, putem nastavnih planova i programa, uz suglasnost mjerodavnih ministarstava zdravstva Županije (u daljnjem tekstu: ministarstvo zdravstva) osigurava zdravstveni odgoj i provođenje obrazovanja za zdravstvenu samozaštitu predškolske djece i đaka.

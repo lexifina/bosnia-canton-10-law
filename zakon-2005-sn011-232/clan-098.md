@@ -1,0 +1,2 @@
+Članak 98.
+Doktor privatne prakse, koji obavlja djelatnost kao izabrani doktor, obavezan je u slučaju odsutnosti, ili privremene obustave rada, osigurati svojim bolesnicima zamjenu s drugim zdravstvenim djelatnikom iste struke ili specijalizacije, koji obavlja privatnu praksu ili sa zdravstvenom ustanovom privatne zdravstvene zaštite koja će za to vrijeme umjesto njega pružati zdravstvenu zaštitu tim bolesnicima.

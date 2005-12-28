@@ -1,0 +1,8 @@
+Članak 20.
+Primarna zdravstvena zaštita provodi se i organizira u timskom radu u kojem sudjeluju doktor medicine i medicinska sestra, odnosno zdravstveni tehničar.
+Poslove primarne zdravstvene zaštite obavlja doktor medicine, doktor stomatologije i magistar farmacije, obiteljski liječnik, specijalist opće i medicine rada, pedijatar, specijalist iz oblasti javnog zdravstva, specijalisti ginekologije, školske medicine, specijalist pulmolog i specijalist medicinske biokemije ili diplomirani inženjer medicinske biokemije, sa svojim suradnicima.
+U primarnoj zdravstvenoj zaštiti sudjeluje specijalist, pedijatar u zdravstvenoj zaštiti djece i ginekolog u zdravstvenoj zaštiti u svezi s trudnoćom, porođajem, majčinstvom, planiranjem obitelji i ranim otkrivanjem raka.
+Doktor stomatologije sa svojim suradnicima provodi poslove iz članka 19. stavak 2. točka 8. ovog Zakona, a magistri farmacije sa svojim suradnicima provode poslove iz članka 19. stavka 2. točka 9. ovog Zakona.
+U provedbi pojedinačnih mjera primarne zdravstvene zaštite, a posebno u zdravstvenoj zaštiti djelatnika, djece predškolskog i školskog uzrasta sudjeluje psiholog, logoped, defektolog i socijalni djelatnik, odnosno drugi stručnjaci za pojedina pitanja te zaštite.
+Zdravstveni djelatnici u primarnoj zdravstvenoj zaštiti u timskom radu surađuju s doktorima medicine i drugih specijalnosti u specijalističkokonzultativnoj i bolničkoj zdravstvenoj zaštiti.
+Zdravstveni djelatnici u primarnoj zdravstvenoj zaštiti svojim radom potiču i usmjeravaju mjere samozaštitne aktivnosti građana, kao i aktivnosti i mjere organizacija i tijela državne uprave. ..
