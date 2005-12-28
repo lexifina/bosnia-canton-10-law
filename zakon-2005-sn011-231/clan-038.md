@@ -1,0 +1,3 @@
+Članak 38.
+Osoba koja dobije odobrenje za sakupljanje oružja smije sakupljati pored starog oružja i hladno oružje, kao i automatsko, poluautomatsko i repetirajuće vojno i policijsko oružje koje više nije u naoružanju oružanih snaga F BiH ili policije, a trajno je onesposobljeno za uporabu.
+Oružje je trajno onesposobljeno za uporabu ako je cijev trajno zatvorena cijelom svojom dužinom ili je ležište metka trajno zatvoreno. Ukoliko se radi o oružju kod kojeg se cijev može izmijeniti bez uporabe alata, cijev mora biti pored trajnog zatvaranja i trajno povezana s kućištem. Vatreno oružje koje je onesposobljeno za uporabu u smislu prethodnog stavka ne smije se osposobljavati za uporabu.

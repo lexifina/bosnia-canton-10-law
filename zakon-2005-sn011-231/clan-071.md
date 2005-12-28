@@ -1,0 +1,5 @@
+Članak 71.
+Prepravljeno oružje podliježe obvezatnom prokušavanju i označavanju žigom. Poduzeća koja su registrirana za popravke i prepravke oružja smiju primiti na popravak, odnosno prepravak samo registrirano oružje.
+O prepravkama oružja kojima je izvršena promjena kalibra, tehničkih ili balističkih svojstava oružja, poduzeće koje je registrirano za: obavljanje takve djelatnosti mora izvijestiti nadležnu policijsku postaju u roku osam dana od dana prepravke.
+Vlasnici prepravljenog oružja iz stavka 3. ovog članka, kao i vlasnici popravljenog oružja na kojem su. zamijenjeni, odnosno ugrađeni originalni dijelovi oružja koji imaju utisnut tvornički broj, obvezni su u roku od 8 dana od dana popravljanja, odnosno prepravljanja oružja prijaviti popravku ili prepravku oružja nadležnoj policijskoj postaji i zatražiti izdavanje novog oružnog lista, odnosno odobrenja za držanje oružja.
+Oružje koje je primljeno radi popravke ili prepravke ne smije se iznositi iz prostorija određenih za rad do njegove predaje vlasniku, osim ako je to potrebno radi popravljanja, prepravljanja ili ispitivanja oružja.

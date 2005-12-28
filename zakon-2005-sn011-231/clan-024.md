@@ -1,0 +1,3 @@
+Članak 24.
+Organizacija zdravstva koja obavlja zdravstveni pregled osoba koje nabavljaju oružje, osoba koje se podvrgavaju redovitom ili su upućene na izvanredni kontrolni zdravstveni pregled, obvezna je da vodi posebnu evidenciju o obavljenim pregledima i izdanim uvjerenjima o duševnoj i tjelesnoj sposobnosti za nabavljanje, držanje i nošenje oružja.
+Ako se prilikom zdravstvenog pregleda utvrdi da osoba koja želi da nabavi oružje ili drži i nosi nabavljeno oružje, nije duševno i tjelesno sposobna za nabavku, držanje i nošenje oružja, organizacija zdravstva u kojoj je pregled obavljen obvezna je da o tome u roku od 8 dana od dana obavljenog pregleda obavijesti policijsku postaju na čijem području osoba ima prebivalište.

@@ -1,0 +1,4 @@
+Članak 36.
+Policijska postaja odbit će izdati oružni list za oružje za koje se ne može dokazati podrijetlo, koje prije stavljanja u promet nije označeno žigom ili obilježeno sukladno propisima o prokušavanju, označavanju žigom i obilježavanju ručnog vatrenog oružja, kao i u slučaju kada se u postupku registriranja utvrdi postojanje razloga za odbijanje zahtjeva za nabavku oružja.
+U slučaju iz stavka 1. ovog članka oduzet će se oružje i odobrenje za nabavku oružja. Policijska postaja odbit će zahtjev za izdavanje dozvole za nošenje oružje ako djelatnik koji će obavljati poslove zaštite imovine ne ispunjava uvjete za nabavku oružja.
+Ako za osobu kojoj je povjereno oružje na čuvanje, držanje i nošenje nastupi koja smetnja iz članka 18. ovoga Zakona, nadležna policijska postaja će rješenjem zabraniti toj osobi daljnje držanje i nošenje oružja i streljiva. .

@@ -1,0 +1,3 @@
+4. Promjene prebivališta i sjedišta
+Članak 54.
+Kada fizička ili pravna osoba koja posjeduje oružje na temelju oružnog lista, odnosno odobrenja za držanje oružja, odobrenja za držanje oružja kao uspomene, odobrenja za sakupljanje oružja ili potvrde o prijavljenom oružju promjeni prebivalište, odnosno sjedište, dužna je u roku 30 dana od dana promjene prebivališta, odnosno sjedišta da prijavi tu promjenu nadležnoj policijskoj postaji na čijem području je novo prebivalište te osobe ili sjedište pravne osobe, radi upisa u službene evidencije nadležne policijske postaje i u ispravu za držanje ili nošenje oružja, uz prethodnu odjavu oružja u policijskoj postaji gdje je to oružje bilo ranije registrirano.

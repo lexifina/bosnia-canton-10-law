@@ -1,0 +1,3 @@
+VII - NADZOR
+Članak 76.
+Ministarstvo unutarnjih poslova i nadležne policijske postaje obavljaju neposredni nadzor nad prometom, držanjem i nošenjem oružja i streljiva, nad čuvanjem, smještajem oružja i streljiva od strane poduzeća koja se bave nabavkom oružja i streljiva, streljačkih organizacija, poduzeća koja se bave popravkom i prepravkom oružja, nad oružjem i streljivom namijenjenim za osiguranje imovine pravnih osoba, kao i nadzor nad vođenjem propisanih evidencija o nabavljenom oružju i streljivu, o prometu oružja i streljiva, o popravljenom i prepravljenom oružju i o oružju i streljivu danom na poslugu.

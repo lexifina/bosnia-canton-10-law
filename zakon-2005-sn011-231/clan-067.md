@@ -1,0 +1,3 @@
+Članak 67.
+Poduzeća iz članka 65. ovog Zakona mogu prodavati oružje i streljivo, za koje je ovim Zakonom određeno da se može nabaviti samo uz odobrenje nadležne policijske postaje, pravnim i fizičkim osobama koja to odobrenje dobiju.
+Poduzeća iz članka 65. ovog Zakona obvezna su da prilikom prodaje oružja i streljiva iz prethodnog stavka ovog članka zadrže jedan primjerak odobrenja za nabavku oružja i streljiva, a na drugi primjerak stave zabilješku o izvršeno prodaji i ovjere pečatom i potpisom odgovorne osobe i da u roku od 8 dana od dana prodaje o tome obavijeste nadležnu policijsku postaju koja je izdala odobrenje za nabavku oružja i streljiva.

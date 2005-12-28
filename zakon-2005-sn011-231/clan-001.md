@@ -1,0 +1,5 @@
+I - TEMELJNE ODREDBE
+Članak 1.
+Nabavka, držanje i nošenje oružja i streljiva, način postupanja sa oružjem i streljivom, promet oružja i streljiva, popravke i prepravke oružja, prijevoz oružja i streljiva, nadzor nad prometom, smještajem, držanjem, nošenjem i čuvanjem oružja i streljiva i vođenje propisanih evidencija obavlja se pod uvjetima utvrđenim ovim Zakonom.
+Odredbe ovog Zakona u pogledu nabavke, držanja i nošenja oružja i streljiva odnose se na državljane BiH koji imaju prebivalište na području Hercegbosanske županije i strane državljane, odnosno osobe bez državljanstva koje stalno žive na teritoriju Hercegbosanske županije (u daljnjem tekstu: Županija) ili imaju odobrenje za boravak duži od jedne godine; ukoliko ovim Zakonom to nije drugačije određeno.
+Ovaj Zakon se ne primjenjuje na pripadnike oružanih snaga Federacije Bosne i Hercegovine, službenike Ministarstva unutarnjih poslova Kantona 10 Livno (u daljnjem tekstu: Ministarstvo) i kazneno" popravnih ustanova, kad drže i nose oružje i streljivo u službi ili neposredno u svezi sa službom, odnosno po propisima svoje službe.

@@ -1,0 +1,2 @@
+Članak 16.
+Nabavka vatrenog ili zračnog oružja s projektilom napunjenim omam1jujućom tvari, radi privremenog omamljivanja životinja, može se odobriti znanstvenim institucijama, tijelima državne uprave i drugim pravnim osobama radi znanstvenog istraživanja i prikupljanja stručnih podataka o životinjskim vrstama, zaštite životinja, kao i u drugim opravdanim slučajevima koji ulaze u njihovu redovitu djelatnost, a odnose se na zaštitu prirode.
