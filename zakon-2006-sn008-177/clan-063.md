@@ -1,0 +1,5 @@
+Ostala pitanja vezana uz studij
+Članak 63.
+Statutom visokoškolske ustanove, odnosno općim aktom o pravilima studiranja pobliže se uređuju pravila o ispitima (pisani, usmeni, praktični dio ispita, sustav preduvjeta i sl), žalbi na ocjenu, postupku ponavljanja ispita, sadržaju obliku i načinu vođenja isprava o ispitima, o osiguranju javnosti na ispitima, pravu uvida u ispitne rezultate te po potrebi i o drugim pitanjima.
+Opći akti iz stavka 1. objavljuju se način da budu dostupni javnosti, posebice studentima i pristupnicima za stjecanje statusa studenata. Akademski ili stručni naziv ili stupanj oduzimaju se ako se utvrdi da je stečen protivno propisanim uvjetima za njegovo stjecanje, grubim kršenjem pravila studija ili na temelju doktorskog rada (disertacije) koji je plagijfi1 ili krivotvorina:
+Pokretanje i provođenje postupka oduzimanja akademskog ili stručnog zvanja provodi se u skladu s odredbama statuta visoko obrazovne ustanove na kojem je stečeno akademsko ili stručno zvanje ili stupanj.

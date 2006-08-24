@@ -1,0 +1,3 @@
+Članak 85.
+Na veleučilištu nastavnici se biraju u nastavna zvanja i na radna mjesta koja odgovaraju tim zvanjima. Iznimno, u slučajevima iz stavka 2. ovoga članka, osobe se biraju u nastavna zvanja i na sveučilištu. Na veleučilištu nema radnih mjesta koja odgovaraju znanstveno-nastavnim zvanjima, ali nastavu u svom zvanju mogu izvoditi nastavnici izabrani u znanstveno nastavna ili naslovna zvanja na sveučilištu.
+Na sveučilištu izbor u nastavna zvanja obavlja se prema njihovom statutu u slučaju ako izvode stručni studij za potrebe toga studija, kao i ako je riječ o predmetu koji ne zahtijeva znanstveni pristup, ili na umjetničkoj akademiji za potrebe korepeticije i druge suradnje u obrazovnom procesu.

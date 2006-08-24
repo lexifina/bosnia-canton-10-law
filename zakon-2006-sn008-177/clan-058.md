@@ -1,0 +1,10 @@
+B. UPIS NA STUDIJ, NJEGOVO USTROJSTVO I IZVEDBA Uvjeti za upis
+Članak 58.
+Upis studija na visokoškolskim ustanovama obavlja se na temelju javnog natječaja koji objavljuju visokoškolske ustanove koji provode studij najmanje šest mjeseci prije početka nastave.
+Natječaj za upis mora sadržavati: uvjete za upis, broj mjesta za upis, postupak, podatke o ispravama koje se podnose i rokove za prijavu na natječaj i upis.
+Visokoškolske ustanove utvrđuje postupak odabira pristupnika za upis na način koji jamči ravnopravnost svih pristupnika bez obzira na rasu, boju kože, spol, jezik, vjeru, političko ili drugo uvjerenje, nacionalno ili socijalno podrijetlo, imovinu, rođenje, društveni položaj, invalidnost, seksualnu orijentaciju i dob. Visokoškolske ustanove utvrđuju kriterije (uspjeh u prethodnom školovanju, vrsta završenog školovanja, uspjeh na klasifikacijskom ili drugom ispitu, posebna znanja, vještine ili sposobnosti i sl) na temelju koje obavlja klasifikacija i odabir kandidata za upis.
+Visokoškolske ustanove utvrđuju koji su srednjoškolski programi odgovarajući preduvjet za upis pojedinoga dodiplomskog ili stručnog studija.
+Poslijediplomski studij može upisati, osoba, koja je završila odgovarajući dodiplomski studij. Visokoškolska ustanova propisuje koji je dodiplomski studij odgovarajući za upis pojedinoga poslijediplomskog studija kao i uvjete za pristupnike koji imaju završen neki drugi dodiplomski studij.
+Osobe koje su završile stručni studij mogu upisati poslijediplomski studij ako je to predviđeno općim aktom visokoškolske ustanove koja provodi taj studij, pri čemu se upis može uvjetovati polaganjem diferencijskih ispita.
+Poslijediplomski studij može upisati osoba koja je završila odgovarajući dodiplomski studij. Visokoškolska ustanova može propisati i druge uvjete za upis poslijediplomskog studija.
+Strani državljani upisuju se na studij sukladno odluci visokoškolske ustanove, a od njih može se tražiti plaćanje dijela ili pune cijene studija. Stranim državljanima se upis može ograničiti ili uskratiti ako je riječ o studiju koji se odnosi na vojno ili policijsko obrazovanje.

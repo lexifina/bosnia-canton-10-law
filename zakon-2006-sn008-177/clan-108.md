@@ -1,0 +1,3 @@
+Zatečena zvanja
+Članak 108.
+Osobe izabrane u znanstvena, znanstveno-nastavna, umjetničko-nastavna, nastavna i suradnička zvanja na visokoškolskim ustanovama koje ta zvanja imaju na dan stupanja na snagu ovoga Zakona zadržavaju ta zvanja. Ako ovaj Zakon ili propisi koji su važili prije njegova stupanja na snagu za zatečena zvanja ili radna mjesta zahtijevaju reizbor ili izbor u više zvanje, reizbor ili postupak izbora u isto zvanje provest će se u roku koji predviđa propis prema kojemu je izbor izvršen Ako taj propis ne predviđa rok, izbor ili reizbor provest će se u roku predviđenim ovim Zakonom i koji se računa od dana njegova stupanja na snagu.

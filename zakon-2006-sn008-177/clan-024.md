@@ -1,0 +1,3 @@
+V. SVEUČILIŠTE Osnovne odredbe o sveučilištu
+Članak 24.
+Sukladno svojoj zadaći iz članka 3. ovoga Zakona sveučilišta su obrazovne ustanove koje povezivanjem znanstvenog istraživanja, umjetničkog stvaralaštva, studija i nastave razvijaju znanost, struku i umjetnost, pripremaju studente za obavljanje profesionalnih djelatnosti na temelju znanstvenih spoznaja i metoda kao i umjetničkih vrijednosti) obrazuju znanstveni i umjetnički pomladak, sudjeluju u ostvarivanju društvenih interesa studenata te promiču međunarodnu, posebice europsku suradnju u visokom obrazovanju te znanstvenoj i. umjetničkoj djelatnosti.

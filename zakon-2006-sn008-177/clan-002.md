@@ -1,0 +1,2 @@
+Članak 2.
+Visokom obrazovanju kojim se bave licencirane visokoškolske ustanove pristup neće biti ograničen po bilo kojoj osnovi kao što je spol, rasa, fizički ili drugi nedostatak, bračno stanje, boja kože, jezik, vjeroispovijest, političko ili drugo mišljenje, nacionalno, etničko ili socijalno podrijetlo, veza sa nekom nacionalnom zajednicom, imovina, rođenje, godine starosti ili neki drugi status.

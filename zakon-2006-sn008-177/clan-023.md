@@ -1,0 +1,5 @@
+Članak 23.
+Sveučilište je visokoškolska ustanova koja se bavi nastavnim i istraživačkim radom koji nudi diplome i akademske stupnjeve do i uključujući doktorsko zvanje, sa ciljevima koji uključuju promicanje znanja, misli, školstva u Županiji; obrazovni, kulturni, društveni i gospodarski razvoj Županije i šire društvene zajednice, promociju demokratskog društva i postizanje najviših standarda nastave i učenja.
+Vlada Županije daje dopusnicu (licencu) samo akreditiranim sveučilištima koje nude studijske predmete ili programe prvog ciklusa u najmanje tri različite tematske skupine.
+Veleučilište je visokoškolska ustanova koja je akreditirana za davanje diploma i stupnjeva prvog ciklusa, sa ciljevima koji uključuju pripremu i osposobljavanje pojedinaca za znanstveni, kulturni i ekonomski razvoj Županije i promociju demokratskog društva i postizanje visokih standarda nastave i učenja.
+Vlada Županije daje dopusnicu i ostalim akreditiranim visokoškolskim ustanovama (fakulteti i umjetničke akademije) koje nude studijske predmete ili programe u najmanje jednoj priznatoj tematskoj skupini.

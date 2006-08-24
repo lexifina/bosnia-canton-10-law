@@ -1,0 +1,2 @@
+Članak 75.
+Nastavnik u znanstveno-nastavnom zvanju docenta, izvanrednog profesora i redovitog profesora ustrojava i izvodi nastavu i druge oblike nastavnog rada iz predmeta koji spadaju u znanstveno područje ili granu za koju je izabran savjetuje sveučilištarce, mentor je studentima poslijediplomskog studija, mentor pristupnicama za stjecanje doktorata znanosti, rukovodi ili sudjeluje u znanstveno istraživačkom, umjetničkom i stručnom radu, ispituje studente, te radi druge poslove utvrđene statutom visokoškolske ustanove i nastavnim programom i nastavnim planom.

@@ -1,0 +1,11 @@
+B. NASTAVNA ZVANJA
+Članak 80.
+U zvanje predavača može biti izabrana osoba s odgovarajućom visokom stručnom spremom ako ispunjava uvjete koje propisuje Senat sveučilišta i ima najmanje tri godine radnog iskustva u struci, te od povjerenstva stručnog vijeća visokoškolske ustanove potvrdno ocijenjeno nastupno predavanje pred nastavnicima i studentima, ako se prvi put upošljava na visokoškolsku ustanovu.
+U zvanje višeg predavača može biti izabrana osoba s odgovarajućom visokom stručnom spremom ako ispunjava uvjete koje propisuje senat sveučilišta, objavljenim stručnim radovima i ima najmanje pet godina radnog iskustva u struci, te od povjerenstva stručnog vijeća visokoškolske ustanove potvrdno ocijenjeno nastupno predavanje pred nastavnicima i studentima ako se prvi put izabire u nastavno zvanje i ako se prvi put upošljava na visokoškolsku ustanovu.
+U zvanje profesora visokoškolske ustanove može biti izabrana osoba s doktoratom znanosti ili visokom stručnom spremom i obranjenim habilitacijskim radom, izvedenim značajnijim projektima, objavljenim radovima koji su znatno unaprijedili struku, ili novim radovima nakon izbora u zvanje višeg predavača, najmanje šest godina radnog iskustva u struci, te od povjerenstva stručnog vijeća visokoškolske ustanove potvrdno ocijenjeno nastupno predavanje pred nastavnicima i studentima ako se prvi put izabire u nastavno zvanje i ako se prvi put upošljava na visoko školsku ustanovu.
+Postupak izrade i obrane habilitacijskog rada, kao i ostale uvjete za izbor u zvanje profesora visoke škole propisuje senat sveučilišta.
+Članak 81.
+U zvanje lektora može biti izabrana osoba s odgovarajućom visokom stručnom spremom, objavljenim stručnim radovima i radnim iskustvom u struci.
+U zvanje višeg lektora može biti izabrana osoba s odgovarajućom visokom stručnom spremom objavljenim stručnim radovima i najmanje pet godina radnog iskustva u struci.
+U zvanje korepetitora može biti izabrana osoba s odgovarajućom visokom stručnom spremom, koja ima dokazanu umjetničku djelatnost i najmanje pet godina radnog iskustva u struci.
+U zvanje višeg korepetitora može biti izabrana osoba s odgovarajućom visokom stručnom spremom, koja ima dokazanu umjetničku djelatnost i najmanje deset godina radnog iskustva u struci.

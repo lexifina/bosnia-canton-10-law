@@ -1,0 +1,3 @@
+Pitanja od posebnog interesa za studente
+Članak 36.
+Statutom sveučilišta utvrđuju se pitanja od posebnog interesa za studente, za koja prilikom odlučivanja u senatu studentski predstavnici imaju pravo suspenzivnog veta. Pitanja od posebnog interesa za studente posebice su ona vezana za promjenu sustava studija, osiguranje kvalitete studija, donošenje nastavnih programa, utvrđivanja izvedbenih planova nastave i studentski standard. Nakon suspenzivnog veta Senat ponovno raspravlja o navedenom pitanju u roku 30 dana. U ponovljenom odlučivanju nema suspenzivnog veta. Način upotrebe studentskoga suspenzivnog veta kao i potrebna većina u ponovnom odlučivanju nakon suspenzivnog veta pobliže se utvrđuju statutom sveučilišta.
