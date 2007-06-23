@@ -1,0 +1,3 @@
+Članak 29.
+Roditelj ili staratelj mlađeg maloljetnika koji se od strane ovlaštene službene osobe Ministarstva zatekne u vremenu od 23,00 do 05,00 sati u ugostiteljskom objektu u kojem se konzumira alkohol ili na javnom mjestu u vremenu od 23,00 do 05,00 sati, bez nadzora roditelja ili staratelja, kaznit će se novčanom kaznom od 200,00 do 400,00 KM.
+Roditelj ili staratelj starijeg maloljetnika koji se od strane ovlaštene službene osobe Ministarstva zatekne u vremenu od 23,00 do 05,00 sati u ugostiteljskom objektu u kojem se konzumira alkohol ili na javnom mjestu u vremenu od 23,00 do 05,00 sati, bez nadzora roditelja ili staratelja ili druge osobe kojoj je roditelj ili staratelj povjerio maloljetnika na čuvanje, kaznit će se novčanom kaznom od 100,00 do 300,00 KM.

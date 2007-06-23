@@ -1,0 +1,1 @@
+Na temelju članka 26. točka e. Ustava Hercegbosanske županije ("Narodne novine Hercegbosanske županije", broj 3/96, 9/00, 9/04 i 10/05), te članka 98. Poslovnika Skupštine Hercegbosanske županije ("Narodne novine Hercegbosanske županije", broj 8/03, 14/03, 1/04 i 6/05), Skupština Hercegbosanske županije na sjednici održanoj dana 29. 05. 2007. godine donijela je

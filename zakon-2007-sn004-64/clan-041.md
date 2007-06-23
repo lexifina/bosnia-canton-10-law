@@ -1,0 +1,3 @@
+Članak 41.
+Okrivljenom koji je počinio prekršaj pod odlučujućim djelovanjem ovisnosti od alkohola ili opojnih droga, može se izreći uvjetna ili ublažena sankcija pod uvjetom da se podvrgne izvan bolničkom liječenju ovisnosti od alkohola i droga u određenom razdoblju ili dok se ne ustanovi da ne postoji potreba za daljim liječenjem okrivljenog, utemeljena na mišljenju specijaliziranih stručnjaka zaduženih za liječenje, uz uvjet da trajanje takvog liječenja nije duže od jedne godine.
+Ukoliko se okrivljeni ne podvrgne određenom izvan bolničkom liječenju opozvat će se uvjetna ili ublažena sankcija.

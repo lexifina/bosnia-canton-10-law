@@ -1,0 +1,3 @@
+Članak 37.
+Ovlaštene službene osobe Ministarstva, kada u obavljanju službenih poslova utvrde da je do narušavanja javnog reda i mira došlo na način opisan u članku 21. stavak 1. ovog Zakona, usmeno će upozoriti vlasnika poduzeća, odnosno radnje da se narušava javni red i mir ili da objekt radi protivno propisima o radnom vremenu, koje donosi jedinica lokalne samouprave.
+U slučaju da se vlasnik poduzeća, odnosno radnje ogluši o usmeno upozorenje ovlaštene službene osobe, ovlaštena službena osoba izdat će pismenu naredbu o prestanku narušavanja javnog reda i mira, odnosno o obvezi poštivanja propisa o radnom vremenu, koje donosi jedinica lokalne samouprave.
