@@ -1,0 +1,3 @@
+Članak 16.
+U članku 64. stavak 1. Zakona se mijenja i glasi: Ravnatelja srednje škole kao javne ustanove imenuje i razrješava školski odbor srednje škole. Ravnatelj srednje škole bira se na temelju javnog natječaja koji se raspisuje tri mjeseca prije isteka mandata ravnatelja škole", a imenuje na temelju stručnog mišljenja Ministarstva i uz suglasnost Vlade HBŽ".
+Članak 64. stavak 2. Zakona se mijenja i glasi: "Ako prijedlog za imenovanje ravnatelja ne bude dostavljen Vladi Županije na suglasnost najkasnije 30 dana od isteka natječajnog roka, kada Osnivač uskrati suglasnost, te u slučaju duže spriječenosti ravnatelja, iz opravdanih razloga, da obavlja svoju dužnost, ministar će imenovati vršitelja dužnosti ravnatelja na rok koji ne može biti duži od godinu dana".

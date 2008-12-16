@@ -1,0 +1,4 @@
+Članak 14.
+U članku 61. stavak 1. Zakona se mijenja i glasi: "Školski odbor broji 5 članova".
+U članku 61. stavak 4. Zakona se mijenja i glasi: "Dva člana školskog odbora biraju se iz reda učitelja i stručnih suradnika, dva člana bira osnivač po proceduri koja je predviđena zakonskim propisima, jednog člana biraju roditelji iz reda roditelja učenika".
+U članku 61. stavak 5. Zakona se mijenja i glasi: "Član školskog odbora iz reda osnivača bira se temeljem javnog natječaja kojeg raspisuje osnivač. Članovi školskog odbora iz reda učitelja i stručnih suradnika biraju se na način predviđen Statutom škole. Članovi školskog odbora iz reda roditelja učenika bira Vijeće roditelja po proceduri predviđenoj Naputkom Ministarstva. Članovi školskog odbora se biraju na četiri godine a odluke donose izjašnjavanjem većine članova školskog odbora".

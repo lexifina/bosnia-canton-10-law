@@ -1,0 +1,2 @@
+Članak 30.
+Članak 100. stavak 2. mijenja se glasi: Za stručnog učitelja može biti izabrana osoba koja je završila odgovarajući studij više školske spreme i ima potrebno pedagoško-psihološko obrazovanje. Za stručnog učitelja koji može samostalno izvoditi Praktičnu nastavu može biti izabrana osoba koja ima položen majstorski ispit (V-stupanj), pet godina radnog iskustva u struci i ako ima potrebno pedagoško-psihološko obrazovanje te položen stručni ispit a što se utvrđuje Nastavnim planom i programom.

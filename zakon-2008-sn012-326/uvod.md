@@ -1,0 +1,1 @@
+Na temelju članka 26. stavak e) Ustava Hercegbosanske županije ("Narodne novine Hercegbosanske županije" broj: 3/96, 9/00, i 9/04.), članka 98. Poslovnika Skupštine Hercegbosanske županije, ("Narodne novine Hercegbosanske županije" broj: 8/03, 14/03, 1/04, 6/05, 11/06, i 5/08) Skupština Hercegbosanske županije na sjednici održanoj 24. studenoga 2008. godine donosi
