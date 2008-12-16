@@ -1,0 +1,2 @@
+Članak 16.
+Članak 82. Zakona mijenja se i glasi: "Ako prijedlog za imenovanje ravnatelja ne bude dostavljen Ministarstvu na suglasnost najkasnije 30 dana od isteka natječajnog roka, kada Ministarstvo ili osnivač uskrati suglasnost, te u slučaju duže sprječenosti ravnatelja, iz opravdanih razloga, da obavlja svoju dužnost ministar će imenovati vršitelja dužnosti ravnatelja na rok koji ne može biti duži od godinu dana".
