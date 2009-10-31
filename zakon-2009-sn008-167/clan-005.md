@@ -1,0 +1,3 @@
+Članak 5.
+Opći ciljevi predškolskog odgoja proizlaze iz općeprihvaćenih, univerzalnih vrijednosti demokratskog društva, te osobnih vrijednosnih sustava utemeljenih na specifičnostima nacionalne, kulturne i vjerske tradicije naroda i nacionalnih manjina koje žive u Bosni i Hercegovini.
+Dio odgojno-obrazovnih sadržaja utvrđenih programom može se, osim na jezicima konstitutivnih naroda i nacionalnih manjima u Bosni i Hercegovini realizirati na nekom od svjetskih jezika uz prethodno odobrenje Ministarstva prosvjete, znanosti, kulture i športa Hercegbosanske županije (u daljnjem tekstu: Ministarstvo).
