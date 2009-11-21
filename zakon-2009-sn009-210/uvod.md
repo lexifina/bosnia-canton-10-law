@@ -1,0 +1,2 @@
+Na temelju članka 26.e Ustava Hercegbosanske županije ("Narodne novine Hercegbosanske županije", broj: 3/96, 9/00, 9/04 i 1 0/05), članka
+98. Poslovnika Skupštine Hercegbosanske županije ("Narodne novine Hercegbosanske županije", broj 3/96, 9/00, 9/04 i 10/05) i članka 2. stavak 3. Zakona o načinu ostvarivanja uštede u Federaciji BiH ("Službene novine Federacije BiH", broj: 50/09), Skupština Hercegbosanske županije na sjednici održanoj dana 10. 11. 2009. godine donosi
