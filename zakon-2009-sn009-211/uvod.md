@@ -1,0 +1,1 @@
+Na temelju članka III.4.b) Ustava Federacije BiH, članka 15. stavka 1. točka d). Ustava Hercegbosanske županije te članka 98. Poslovnika Skupštine Hercegbosanske županije, Skupština Hercegbosanske županije na sjednici od 10. 11. 2009. donosi

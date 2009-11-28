@@ -1,0 +1,6 @@
+Članak 17.
+(1) Osnivač/i visokoškolske ustanove formira/ju ekspertno povjerenstvo koje će pripremiti elaborat o opravdanosti osnivanja visokoškolske ustanove,
+(2) Članovi ekspertnog povjerenstva su sveučilišni nastavnici iz znanstvenog i stručnog područja, za koje se osniva visokoškolska ustanova.
+(3) Elaborat iz stavka (1) ovog članka sadrži: podatke o osnivaču, sjedište i naziv, ciljeve, dokaz o postojanju društvene potrebe za obrazovanjem određenog profila kadra na području Kantona i BiH, dužinu trajanja studija, okvirni nastavni plan i program, stručni naziv koji se stječe po završetku studija, ispunjavanje općih i posebnih uvjeta po standardima visokog obrazovanja, sredstva potrebna za ispunjavanje tih uvjeta i način njihovog osiguravanja.
+(4) Osnivač ustanove prije donošenja akta o osnivanju usvaja elaborat. Osnivač ustanove nakon usvajanja elaborata imenuje povjerenstvo matičara i utvrđuje rok za podnošenje izvještaja.
+(5) Elaborat o osnivanju visokoškolske ustanove dostavlja se Ministarstvu prosvjete, znanosti, kulture i športa (u daljem tekstu: nadležno ministarstvo), uz zahtjev za donošenje rješenja o ispunjenosti uvjeta za početak rada i obavljanja djelatnosti visokog obrazovanja.

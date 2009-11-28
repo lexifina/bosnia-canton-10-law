@@ -1,0 +1,7 @@
+Članak 25.
+(1) Visokoškolska ustanova može početi s radom i obavljanjem djelatnosti ako ispunjava kriterije i standarde i normative za visoko obrazovanje, odnosno standarde i normative za osnivanje te za prestrukturiranje studijskih programa, koje donosi Vlada Županije na prijedlog resornog ministarstva za obrazovanje.
+(2) Sveučilište i visoka škola mogu početi s radom i obavljanjem djelatnosti ako ispunjava kadrovske uvjete i ima u radnom odnosu najmanje dvije trećine od ukupnog broja nastavnika potrebnih za izvođenje nastave na obveznim nastavnim predmetima utvrđenim nastavnim planom za sve cikluse koje organizira, osim na umjetničkim akademijama.
+(3) Izuzetno za studij medicinske skupine znanosti, broj angažiranih uposlenika iz zdravstvene institucije u nastavnom procesu u visokoškolskoj ustanovi" ulazi u broj nastavnika iz stavka
+(2), a to se regulira posebnim .ugovorom između visokoškolske ustanove i zdravstvene institucije.
+(4) Visokoškolska ustanova koja ne ispunjava uvjete iz stavka (1), (2) i (3) ne može izdavati javne isprave.
+(5) Sveučilištu i visokoj školi koja nema u radnom odnosu najmanje dvije trećine potrebnog broja nastavnika, a ima najmanje polovicu, može se izdati rješenje o odobrenju osnivanja i početka rada i obavljanja djelatnosti i dozvola za rad uz uvjet da u razdoblju od tri godine zapošljava nastavnike do potrebnog broja i o tome jednog godišnje na početku akademske godine izvijesti mjerodavno ministarstvo;

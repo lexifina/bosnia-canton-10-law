@@ -1,0 +1,5 @@
+Članak 9.
+(1) Pravo na visoko obrazovanje imaju sve osobe koje su završile četverogodišnju srednju školu u Bosni i Hercegovini (u daljnjem tekstu BiH) kao i učenici koji su završili srednju školu u inozemstvu.
+(2) Učenici koji su srednju školu završili u inozemstvu dokaz o završenoj školi, svjedodžbu ili diplomu podnose visokoškolskoj ustanovi, a koja je prethodno nostrificirana u nadležnoj instituciji. Bit će priznata svjedodžba ili diploma koja pokazuje razinu obrazovanja koja se u osnovi ne razlikuje od obrazovanja u BiH i koja nositelju daje pravo prijaviti se na sveučilište ili polagati prijamni ispit na sveučilištu u danoj stranoj zemlji.
+(3) Izuzetno, pod uvjetima određenim statutom visokoškolske ustanove, pravo na visoko obrazovanje ima i osoba bez stečenog srednjeg obrazovanja koja se prijavljuje za upis na studijske programe iz umjetničkih područja.
+(4) Ustanova će osigurati pristup studiju stranim državljanima i osobama bez državljanstva u skladu s načelima u Europskoj zoni visokog obrazovanja, osiguravajući studij pod istim uvjetima kao i državljanima BiH potičući mobilnost studenata i nastavnika.

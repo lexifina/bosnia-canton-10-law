@@ -1,0 +1,2 @@
+Članak 41.
+Visokoškolska ustanova će donijeti, publicirati i kontinuirano ažurirati misiju, odnosno izjavu o misiji, kojom će precizno i sažeto opisati visokoškolsku ustanovu, definirati njen status, identificirati postavljene ciljeve i politike, odrediti način prilagođavanja organizacijske stnIkture ustanove potrebama studenata i društvene zajednice, te dati naznake o načinu realizacije postavljenih ciljeva.

@@ -1,0 +1,6 @@
+II. VISOKOŠKOLSKE USTANOVE
+Članak 10.
+(1) Djelatnost visokog obrazovanja obavljaju sveučilišta i visoke škole.
+(2) Sveučilište je visokoškolska ustanova koja se bavi znanstveno-nastavnim i istraživačkim radom, koja nudi akademske stupnjeve sva tri ciklusa, s ciljevima koji uključuju unaprjeđenje znanja, misli i školstva u BiH, obrazovni, kulturni, društveni i ekonomski razvoj BiH, promoviranje demokratskog građanskog društva i postizanje najviših standarda nastave i istraživačkog rada 1 koja realizira najmanje pet različitih studijskih programa iz barem tri znanstvena područja - prirodne znanosti, tehničke znanosti, društvene znanosti, biomedicina i zdravstvo, biotehničke i humanističke znanosti.
+(3) Izuzetno od stavka (1) ovog članka sveučilište u polju umjetnosti može se osnovati ako ima sve tri razine studija iz najmanje tri područja umjetnosti.
+(4) Visoka škola je visokoškolska ustanova koja je akreditirana za davanje diploma i stupnja prvog ciklusa, s ciljevima koji uključuju pripremu i obuku pojedinaca za stručni, ekonomski i kulturni razvoj BiH i promociju demokratskog građanskog društva, te postizanje visokih standarda nastave i učenja i koja realizira najmanje jedan studijski program iz jednog znanstvenog područja i ispunjava druge uvjete u skladu sa zakonom.

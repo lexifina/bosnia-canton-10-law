@@ -1,0 +1,4 @@
+Članak 96.
+(1) Strani državljanin i osoba bez državljanstva može se upisati na studijske programe pod istim uvjetima kao i domaći državljanin u skladu s ovim Zakonom i statutom visokoškolske ustanove te u skladu s kvotom za upis studenata stranih državljana koju utvrđuje nadležno ministarstvo na prijedlog visokoškolske ustanove.
+(2) Strani državljani, osim državljana država nastalih raspadom SFRJ, plaćaju troškove studija na visoko školskoj ustanovi kao javnoj ustanovi po cjeniku predviđenom za strane državljane, osim ukoliko to nije, za određene države, drugačije definirano međudržavnim ugovorima.
+(3) Studenti državljani država nastalih raspadom SFRJ, upisuju se i plaćaju troškove studija na visoko školskoj ustanovi kao javnoj ustanovi pod istim financijskim uvjetima kao državljani Bosne i Hercegovine, i u skladu s kvotom za upis studenata iz ove kategorije koju odobri vlada, na prijedlog visokoškolske ustanove.
