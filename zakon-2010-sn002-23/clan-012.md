@@ -1,0 +1,2 @@
+Članak 12.
+Materijalni i drugi uvjeti za upravljanje, zaštitu i uređenje poljoprivrednog zemljišta osiguravaju se putem Federalnog ministarstva poljoprivrede, vodoprivrede i šumarstva u daljnjem tekstu: Federalno ministarstvo), županijskog ministarstva poljoprivrede, vodoprivrede i šumarstva (u daljnjem tekstu: županijsko ministarstvo) i općinskih službi mjerodavnih za poslove poljoprivrede (u daljnjem tekstu: općinske službe).

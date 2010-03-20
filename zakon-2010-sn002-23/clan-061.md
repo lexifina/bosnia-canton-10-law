@@ -1,0 +1,6 @@
+Članak 61.
+Općinska služba donosi Program korištenja pašnjaka za svaku kalendarsku godinu.
+Programom iz stavka 1. ovoga članka propisuje se način korištenja privatnih i državnih pašnjaka na osnovi proizvodne sposobnosti pašnjaka, kapaciteta korištenja za pojedine vrste stoke, na bazi broja i grla stoke koja mogu da pasu na tom zemljištu, prinosa, uporabe vode za napajanje stoke i mjera za unapređenje proizvodnje.
+Vlasnik i korisnik pašnjaka ima pravo i obvezu da: obavlja izgon stoke za ispašu i racionalno koristi pašnjak, koristi mjesta za napajanje stoke i omogući i drugima da napajaju stoku, ostvari stvarnu služnost na tuđem zemljištu, ali i omogući drugim korisnicima prijelaz, pristup i dopremu stoke na svojim pašnjacima, stalno obavlja melioraciju i održavanje u cilju poboljšanja i povećanja kapaciteta pašnjaka i poduzima zaštitne mjere za pašnjake od pretjeranog i nenamjenskog korištenja.
+Korisnici čija se stoka napasa na pašnjacima dužni su se pridržavati načina i vremena ispaše stoke koje je vlasnik utvrdio.
+Kod utvrđivanja uvjeta o načinu korištenja pašnjaka iz stavka 1. ovoga članka moraju se osigurati zaštita i uređenje pašnjaka, kao i opravdani interesi korisnika pašnjaka, odnosno pravo prvenstva koji imaju drugi korisnici pašnjaka.

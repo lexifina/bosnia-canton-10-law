@@ -1,0 +1,2 @@
+Članak 126.
+Inspekcijski nadzor nad provedbom odredbi ovoga zakona i propisa donesenih na temelju njega obavlja županijski organ uprave mjerodavan za poslove poljoprivredne inspekcije (u daljnjem tekstu: županijska uprava za inspekcijske poslove) i općinska služba mjerodavna za poslove poljoprivredne inspekcije (u daljnjem tekstu: općinska inspekcija) Poslove inspekcijskog nadzora iz mjerodavnosti županijske i općinske poljoprivredne inspekcije obavljaju poljoprivredni inspektori.

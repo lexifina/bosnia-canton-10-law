@@ -1,0 +1,6 @@
+VI. UREĐENJE POLJOPRIVREDNOG ZEMLJIŠTA
+Članak 68.
+Za poboljšanje uvjeta poljoprivredne proizvodnje, za povećanje plodnosti i proizvodnih sposobnosti poljoprivrednog zemljišta, a u cilju racionalnije i ekonomičnije proizvodnje, provode se mjere uređenja zemljišta: komasacija, arondacija, melioracije (izgradnja i održavanje sustava za odvodnju i navodnjavanje, poboljšanje kvaliteta poljoprivrednog zemljišta, kultivacija livada i pašnjaka, pretvaranje neobradivog poljoprivrednog zemljišta u obradivo), protuerozijska zaštita, rekultivacija i dr.
+Mjere uređenja zemljišta iz stavka 1. ovoga članka provode se radi grupiranja razbacanih parcela u cilju stvaranja većih parcela, pravilnih geometrijskih oblika, poboljšanja proizvodnih sposobnosti zemljišta pomoću primjene agrotehničkih, agromelioracijskih i hidromelioracijskih mjera, pristupa javnoj infrastrukturi, pošumljavanja zemljišta slabije kvalitete ili zagađenog zemljišta, uređivanja imovinsko-pravnih odnosa, premjera i ažuriranja katastra zemljišta.
+Mjere iz stavka 1. ovoga članka provode se na inicijativu vlasnika zemljišta ili korisnika zemljišta po ovlaštenju vlasnika i po sporazumu među vlasnicima poljoprivrednih zemljišta uz aktivno sudjelovanje mjerodavnih znanstvenih i stručnih institucija.
+Jedinstvena metodologija za izradu projekataprograma uređenja zemljišta propisuje se federalnim propisom.

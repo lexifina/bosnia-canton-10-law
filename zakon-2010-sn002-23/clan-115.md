@@ -1,0 +1,4 @@
+Članak 115.
+Ugovor o koncesiji obvezno sadrži odredbe i podatke o: klasi, veličini i kulturi poljoprivrednog zemljišta, vremenu trajanja koncesije, načinu i uvjetima korištenja zemljišta, obliku, visini, te načinu i rokovima plaćanja naknade za koncesiju, mogućnostima i razlozima otkaza ugovora ili jednostranog raskida ugovora, dozvoli postavljanja gospodarsko-proizvodnih objekata, pomoćnih uređaja i objekata za korištenje zemljišta, ako su u skladu s propisima o prostornom uređenju i građenju, te njihovoj pripadnosti po isteku koncesije i zalogu i hipoteci.
+Koncesionar je obvezan uz ugovor o koncesiji priložiti gospodarsko-proizvodni program (gospodarski program), koji čini njegov sastavni dio.
+Prava i obveze korisnika koncesije za korištenje poljoprivrednog zemljišta iz ugovora o koncesiji, mogu se prenijeti na fizičku osobu u prvom nasljednom redu, uz uvjet da se bavi poljoprivrednom proizvodnjom do isteka roka koncesije.

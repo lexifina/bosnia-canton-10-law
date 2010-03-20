@@ -1,0 +1,3 @@
+Članak 40.
+Ako vlasnik privatnog poljoprivrednog zemljišta nije u mogućnosti koristiti poljoprivredno zemljište u skladu s člankom 35. ovog zakona, dužan je osigurati njegovo korištenje putem davanja zemljišta u zakup ili na drugi način, u skladu s propisima kojima su utvrđena pitanja davanja nekretnina u zakup.
+Ako vlasnik privatnog poljoprivrednog zemljišta ne može osigurati korištenje zemljišta na način iz stavka 1. ovoga članka, dužan je o tome izvijestiti općinsku službu o mjestu, katastarskoj općini, čestici, klasi, kulturi i površini, te udjelu u vlasništvu, najkasnije do 31. ožujka tekuće godine.

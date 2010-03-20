@@ -1,0 +1,6 @@
+Članak 93.
+Vlasnici, zakupci i drugi korisnici poljoprivrednog zemljišta na području na kojem se ostvaruje uređenje moraju dozvoliti pristup na svoja zemljišta radnicima poljoprivrednih, geodetskih, vodoprivrednih i drugih organizacija koje obavljaju radove (mjerenje, snimanje, projektiranje, obilježivanje) u vezi s pripremom i izvođenjem agrarnih operacija i djelovanjem, kao i održavanje melioracijskih objekata i uređaja, ali imaju pravo na nadoknadu štete prouzrokovane navedenim radnjama.
+Vlasnici, zakupci i drugi korisnici zemljišta imaju zakonom ustanovljenu služnost puta zbog prilaza poljoprivrednim parcelama koji im se ne može ograničiti.
+Pravo služnosti korištenja tuđeg zemljišta imaju osobe koja se bave: pčelarstvom, pužarstvom, sakupljanjem plodova samoniklog bilja, gljiva, zelenila, lovom i ribolovom dr. Služnost iz stavka 2. ovoga članka traje sve dok poljski radovi (oranje, sjetva, žetva, berba i dr. poslovi) ne budu završeni.
+Općinska služba može ustanoviti stvarnu služnost otjecanja vode preko tuđeg zemljišta, ako se otjecanje ne može riješiti na drugi način. Sezonsku služnost, procjenu štete i visinu naknade određuje općinska služba na temelju propisa o izvlaštenju, dok naknadu štete obavlja korisnik sezonske služnosti.
+Žalba protiv odluke općinske službe ne zadržava izvršenje odluke.

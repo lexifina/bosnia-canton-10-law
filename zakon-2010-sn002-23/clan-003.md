@@ -1,0 +1,3 @@
+Članak 3.
+Cilj donošenja zakona je očuvanje, namjensko korištenje, povećanje proizvodne sposobnosti i unapređenje gospodarenja poljoprivrednim zemljištem, kao ograničenog i neobnovljivog prirodnog resursa, bez obzira u čijem je vlasništvu, te usklađivanje interesa svih subjekata u korištenju poljoprivrednog zemljišta u gospodarskom i ekonomskom razvoju Županije.
+Cilj predviđen stavkom 1. ovoga članka ostvarit će se putem Strategije gospodarenja poljoprivrednim zemljištem (u daljnjem tekstu: Federalna strategija), Programa unapređenja gospodarenja poljoprivrednim zemljištem (u daljnjem tekstu: Program gospodarenja) i drugih programa i projekata.

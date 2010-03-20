@@ -1,0 +1,4 @@
+Članak 5.
+Minirano poljoprivredno zemljište, kao i zemljište za koje se opravdano sumnja da je minirano, smatra se poljoprivrednim zemljištem, ali se ne može koristiti za poljoprivrednu proizvodnju do dana uklanjanja mina i neeksplodiranih ubojitih sredstava, odnosno njegova deminiranja ili do obavljanja stručnog očevida i davanja nalaza od strane ovlaštene institucije.
+Šumsko, građevinsko i/ili drugo nepoljoprivredno zemljište nakon privođenja kulturi, odnosno poljoprivrednoj proizvodnji, smatraju se poljoprivrednim i uvrštavaju se u jednu od kategorija poljoprivrednog zemljišta.
+Neizgrađeno građevinsko zemljište, do privođenja konačnoj namjeni, mora se održavati sposobnim za poljoprivrednu proizvodnju, odnosno poljoprivredno zemljište, kojem je planom prostornog uređenja utvrđena druga namjena, koristi se za poljoprivrednu proizvodnju dok rješenje o odobrenju za građenje objekata, odnosno obavljanje drugih radova, ne postane konačno.

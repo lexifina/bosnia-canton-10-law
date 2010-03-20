@@ -1,0 +1,4 @@
+Članak 42.
+Ako vlasnik privatnog poljoprivrednog zemljišta ne koristi poljoprivredno zemljište dulje od tri ekonomske godine ili ne osigura korištenje tog zemljišta u skladu s člankom 40. ovoga zakona (ne može ga sam obrađivati ili ga ne da u zakup), općinsko tijelo može provesti postupak davanja tog zemljišta na privremeno korištenje drugim pravnim i fizičkim osobama kojima je poljoprivredna djelatnost temeljna djelatnost (registriranim proizvođačima).
+Vrijeme za koje se privremeno dodjeljuje poljoprivredno zemljište iz st. 1. ovoga članka je do pet godina i za to vrijeme ne može promijeniti namjenu.
+Odluku o davanju zemljišta u zakup donosi općinsko vijeće, a protiv ove odluke može se uložiti prigovor u roku od osam dana od dana dostave. O prigovoru odlučuje općinsko vijeće. Ugovor o zakupu sa zakupoprimateljem potpisuje načelnik
