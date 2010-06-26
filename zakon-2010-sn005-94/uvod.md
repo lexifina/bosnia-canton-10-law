@@ -1,0 +1,1 @@
+Na temelju članka 26 e Ustava Hercegbosanske županije, ("Narodne novine Hercegbosanske županije",br. 3/96, 9/00 i 10/05), te članka 98. Poslovnika Skupštine Hercegbosanske županije ("Narodne novine Hercegbosanske županije" broj: 8/03, 14/03, 1/04 i 6/05), Skupština Hercegbosanske županije na sjednici održanoj dana 24. 05. 2010. god. donosi
