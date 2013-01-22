@@ -1,0 +1,4 @@
+Članak 22.
+(1) Poslodavac je dužan stručnjacima za zaštitu na radu kao i službi za zaštitu na radu osigurati uvjete za rad i pomoć drugog stručnog osoblja, kao i potrebnu opremu, a vanjskoj službi ili stručnoj osobi osigurati sve potrebne podatke.
+(2) Poslodavac je dužan imenovanog ovlaštenika, zaposlenog stručnjaka zaštite na radu, odnosno službu za zaštitu na radu, obavijestiti o svim činjenicama i okolnostima koje utječu ili bi mogle utjecati na sigurnost i zdravlje radnika, te o svim preventivnim mjerama i mjerama zaštite zdravlja i sigurnosti radnika, kao i o podacima o radnicima zaduženima za pružanje prve pomoći, gašenje požara i spašavanje radnika.
+(3) Stručnjaci za zaštitu na radu imaju potpunu stručnu neovisnost u odnosu na poslodavca i njegove ovlaštenike te radnike i njihove povjerenike i ne smiju biti dovedeni u nepovoljniji položaj dok postupaju prema odredbama ovoga Zakona, drugih propisa zaštite na radu, kolektivnih ugovora i prema pravilima struke.

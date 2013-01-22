@@ -1,0 +1,4 @@
+Članak 78.
+(1) Radnik je dužan surađivati s poslodavcem ili njegovim ovlaštenikom te s povjerenikom zaduženim za zaštitu na radu u rješavanju svih pitanja zaštite na radu.
+(2) Radnik je dužan surađivati s poslodavcem, osobom iz članka 18. stavak 8. 9. 10. ovoga Zakona i povjerenikom za zaštitu na radu, sve dok mu ne omogući da osigura radni okoliš i uvjete rada koji ne predstavljaju opasnost za sigurnost i zdravlje radnika, te dok se u cijelosti ne postigne zaštita sigurnosti i zdravlja radnika na radu sukladno zahtjevima tijela nadležnih za provedbu i nadzor zaštite na radu.
+(3) Radnik je dužan odmah izvjestiti poslodavca ili njegovog ovlaštenika te svojeg povjerenika o svakoj činjenici za koju opravdano smatra da predstavlja neposrednu opasnost po sigurnost i zdravlje kao i o bilo kojem nedostatku u sustavu zaštite na radu.

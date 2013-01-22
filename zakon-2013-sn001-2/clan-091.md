@@ -1,0 +1,3 @@
+Članak 91.
+(1) Ovlaštene ustanove i gospodarska društva registrirana za obavljanje poslova zaštite na radu mogu na zahtjev poslodavca izrađivati procjene opasnosti (članak 18.), obavljati osposobljavanje za rad na siguran način (članak 27.), ispitivanja strojeva i uređaja s povećanim opasnostima (članak 52.), i ispitivanja u radnom okolišu (članak 50.) te izdavati isprave o provedenim ispitivanjima (članak 53.).
+(2) Ministar nadležan za rad propisat će uvjete pod kojima pravne osobe iz stavka 1. mogu dobiti ovlaštenja za obavljanje pojedinih poslova zaštite na radu, postupak izdavanja i prestanka ovlaštenja te tijela i način vođenja evidencije izdanih ovlaštenja.

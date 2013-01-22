@@ -1,0 +1,5 @@
+Članak 44.
+(1) Poslodavac je dužan provesti potrebne mjere za zaštitu zdravlja i sigurnost radnika, uključujući planiranje, pripremu i provedbu radnog procesa, uvažavajući najvišu moguću razinu zaštite radnika i okoliša i uključujući zaštitu od profesionalnih opasnosti, osiguravajući potrebnu zaštitu i tehnološke uvjete, a tamo gdje je potrebno, dužan je izraditi odgovarajuće upute na hrvatskom jeziku.
+(2) Poslodavac treba skrbiti da su radni postupci tako pripremljeni i organizirani te da se provode na način da se njima ne utječe štetno na sigurnost i zdravlje radnika.
+(3) U cilju osiguravanja najboljih uvjeta rada bez opasnosti po zdravlje i sigurnost rada radnika, poslodavac je dužan pri utvrđivanju radnih postupaka pratiti promjene i primijeniti sve ostvarene napretke u području tehnike, medicine rada, ergonomije i drugih znanstvenih i stručnih spoznaja.
+(4) Radne postupke poslodavac mora tako organizirati da se koliko je to moguće smanje jednoličnost, jednostrano opterećenje, rad s nametnutim ritmom, rad po učinku i na vrijeme.
