@@ -1,0 +1,2 @@
+Članak 1.
+Ovim Zakonom se uređuje posredovanje pri upošljavanju, profesionalno usmjerenje, obrazovanje neuposlenih osoba, osiguranje za slučaj neuposlenosti, mjere i aktivnosti kojima se potiče novo upošljavanje kao i unapređuju uvjeti za upošljavanje, osiguranje sredstava za djelatnost upošljavanja, te osnivanje i rad Zavoda za upošljavanje Hercegbosanske županije (u daljnjem tekstu Županijski zavod) i službi za upošljavanje, sukladno s Ustavom Federacije Bosne i Hercegovine i Ustavom Hercegbosanske županije (u daljnjem tekstu: Ustav).

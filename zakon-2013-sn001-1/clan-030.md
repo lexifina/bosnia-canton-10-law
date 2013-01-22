@@ -1,0 +1,3 @@
+Članak 30.
+Neuposlenoj osobi koja ima pravo na novčanu naknadu može se, na njen zahtjev, isplatiti naknada u jednokratnom iznosu, ovisno od utvrđenom trajanju prava na naknadu prema članku 29. ovog Zakona, radi samostalnog osnivanja gospodarskog društva ili osnivanja s drugom osobom, obrta ili drugog oblika obavljanja samostalne djelatnosti. Neuposlena osoba kojoj je naknada isplaćena sukladno stavku 1. ovog članka ne može se prijaviti službi za upošljavanje prije proteka vremena za koje je primila jednokratnu isplatu.
+Neuposlena osoba kojoj je novčana naknada isplaćena sukladno stavku 1. ovog članka, može ponovno steći pravo na novčanu naknadu ako ispuni uvjete iz članka 27. ovog Zakona.
