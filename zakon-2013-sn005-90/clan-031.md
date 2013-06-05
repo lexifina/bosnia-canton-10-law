@@ -1,0 +1,6 @@
+IV. POSTUPAK ZA NAPLATU NEPLAĆENE PRISTOJBE
+Članak 31.
+Prinudna naplata neplaćene pristojbe
+(1) Pristojbe čiji se iznos određuje na kraju postupka, pristojbeni obveznik je dužan platiti u roku od 8 dana od prijema obavijesti o uplati pristojbe. Ako pristojbeni obveznik ne plati pristojbu u navedenom roku, sud će zatražiti od nadležnog poreznog tijela na čijem području se nalazi prebivalište odnosno sjedište pristojbenog obveznika da se naplata dužne pristojbe obavi prinudnim putem.
+(2) Po prijemu rješenja i zahtjeva suda u smislu stavka (1) ovog članka nadležni porezni organ će izdati nalog za plaćanje sukladno odredbama članka 41. i 42. Zakona o poreznoj upravi Federacije Bosne i Hercegovine ("Službene novine F BiH" br. 33/02 i 28/04), kojom će naložiti pristojbenom obvezniku da u određenom roku plati dugovanu pristojbu, kao i iznos od 50% visine te pristojbe na ime kaznene pristojbe. Ako pristojbena obveza ostane nenaplaćena u roku određenom u nalogu za plaćanje, pristupit će se provođenju procedure prinudne naplate prema odredbama poglavlja XI istog Zakona.
+(3) Nadležno porezno tijelo će obavijestiti sud o rezultatima naplate sudske pristojbe izvršene prinudnim putem dostavom dokaza o naplati pristojbe.
