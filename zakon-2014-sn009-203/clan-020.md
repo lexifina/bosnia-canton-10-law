@@ -1,0 +1,3 @@
+Članak 20.
+(1) Ako inspektor utvrdi da je povredom propisa učinjen prekršaj, izdat će prekršajni nalog ili će podnijeti zahtjev za pokretanjem prekršajnog postupka nadležnom sudu. Zahtjev za pokretanje prekršajnog postupka podnijet će se u slučajevima kada ne postoje uvjeti za izdavanje prekršajnog naloga određeni u članku 33. Zakona o prekršajima Federacije Bosne i Hercegovine („Službene novine Federacije BiH“, broj: 31/06) - u daljem tekstu Zakon o prekršajima.
+(2) Na uvjete i postupak za donošenje rješenja o prekršaju po skraćenom postupku, primjenjuju se odgovarajuće odredbe Zakona o prekršajima.
