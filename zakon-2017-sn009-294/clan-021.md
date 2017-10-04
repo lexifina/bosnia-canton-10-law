@@ -1,0 +1,8 @@
+Članak 21.
+(Dužnost održavanja)
+(1) Etažni vlasnik dužan je brinuti se o stanu, odnosno drugim posebnim dijelovima zgrade, te instalacijama, a naročito električnim, plino vodnim, vodovodnim, toplo vodnim i sanitarnim uređajima, i tako ih održavati da drugim etažnim vlasnicima ne nastane nikakva šteta.
+(2) Za svu štetu koju drugi etažni vlasnici pretrpe u svezi sa izvršavanjem, odnosno neizvršavanjem dužnosti iz stavka (1) ovoga članka, odgovoran je onaj etažni vlasnik, čija je to bila dužnost, a ako je to bila dužnost više etažnih vlasnika, za štetu odgovaraju solidarno.
+(3) Etažni vlasnik je dužan dozvoliti ulazak u stan odnosno drugi posebni dio zgrade upravitelju zgrade ukoliko je to potrebno radi sprečavanja štete na drugim posebnim dijelovima zgrade, odnosno zajedničkim prostorijama ili radi žurnog održavanja zajedničkih dijelova i uređaja zgrade. Imovinsku štetu koju u svezi s time pretrpi dužni su mu razmjerno svojim udjelima u zgradi nadoknaditi etažni vlasnici koji koriste predmetne zajedničke prostorije, ako se radilo o održavanju zajedničkih prostorija, odnosno etažni vlasnik određenog stana ili drugog posebnog dijela zgrade.
+(4) Ukoliko se etažni vlasnik protivi ulasku u stan, odnosno u druge posebne dijelove zgrade shodno stavku (3) ovog članka, po zahtjevu upravitelja, rješenje o dozvoli ulaska upravitelja u stan, odnosno drugi posebni dio zgrade po skraćenom upravnom postupku donosi nadležni gradski/ općinski organ za stambene poslove. U slučaju nemogućnosti ulaska u posebni dio zgrade usprkos postojanju rješenja nadležnog organa, rješenje se izvršava po službenoj dužnosti ili na zahtjev upravitelja zgrade po žurnom postupku.
+(5) Žalba ne odlaže izvršenje rješenja iz stavka
+(4) ovog članka.
