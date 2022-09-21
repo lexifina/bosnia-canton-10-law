@@ -1,0 +1,6 @@
+Članak 8.
+(Temelji i vrste diskriminacije)
+(1) Zabranjena je diskriminacija radnika kao i osobe koja traži uposlenje, s obzirom na spol, bračno stanje, obiteljske obveze, starost, invalid nost, trudnoću, jezik, vjeru, političko i drugo mišljenje, nacionalnu pripadnost, socijalno podri jetlo, imovinsko stanje, rođenje, rasu, boju kože, članstvo ili nečlanstvo u političkim strankama i sindikatima, zdravstveni status, ili neko drugo osobno svojstvo.
+(2) Diskriminacija može biti izravna ili neizravna.
+(3) Izravna diskriminacija, u smislu ovoga zako na, znači svako postupanje uzrokovano nekim od temelja iz stavka 1. ovoga članka kojim se radnik, kao i osoba koja traži uposlenje, stavlja ili je bila stavljena u nepovoljniji položaj u odnosu na druge osobe u istoj ili sličnoj situaciji.
+(4) Neizravna diskriminacija, u smislu ovoga zakona, postoji kada određena naizgled neutralna odredba, pravilo, kriterij ili praksa stavlja ili bi stavila u nepovoljniji položaj radnika kao i osobu koja traži uposlenje zbog određene osobine, statu sa, uvjerenja ili vrijednosnog sustava koji čine temelje za zabranu diskriminacije iz stavka 1. ovoga članka u odnosu na drugog radnika, kao i osobu koja traži uposlenje.

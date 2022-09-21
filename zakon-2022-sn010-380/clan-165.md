@@ -1,0 +1,7 @@
+Članak 165.
+(Prava radnika izabranog i imenovanog na javne dužnosti ili profesionalnu funkciju)
+(1) Radniku izabranom, odnosno imenovanom na neku od javnih dužnosti u tijela Bosne i Hercegovine, Federacije, županije, grada i općine i radniku izabranom na profesionalnu funkciju u sindikatu, prava i obveze iz radnog odnosa, na njegov zahtjev, miruju, a najdulje na razdoblje koliko traje obavljanje te funkcije, od dana izbora, odnosno imenovanja.
+(2) Radnik koji se nakon završenog mandata iz stavka 1. ovoga članka želi vratiti kod istog poslo davca, dužan ga je o tomu obavijestiti u roku 30 dana od dana prestanka mandata, a poslodavac je dužan primiti radnika na rad u roku 30 dana od dana obavijesti radnika.
+(3) Radnika, koji je obavijestio poslodavca u smislu stavka 2. ovoga članka, poslodavac je dužan rasporediti na poslove na kojima je radio prije stupanja na dužnost ili na druge odgovarajuće poslove, osim ako je prestala potreba za obavljan jem tih poslova zbog gospodarskih, tehničkih ili organizacijskih razloga u smislu članka 96. ovoga zakona.
+(4) Ako poslodavac ne može vratiti radnika na rad, zbog prestanka potrebe za obavljanjem poslova u smislu stavka 3. ovoga članka, dužan mu je isplatiti otpremninu utvrđenu u članku 111. ovoga zakona, s tim da se prosječna plaća dovede na razinu plaće koju bi radnik ostvario da je radio.
+(5) Ako radniku prestane radni odnos u smislu stavka (3) ovog članka, poslodavac ne može u roku od jedne godine dana, zaposliti drugu osobu koja ima istu kvalifikaciju ili stupanj stručne spreme.

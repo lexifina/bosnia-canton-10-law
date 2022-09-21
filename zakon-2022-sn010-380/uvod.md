@@ -1,0 +1,1 @@
+Na temelju članka 26. stavak 1) točke e). i članka 15. i 16. Ustava Hercegbosanske županije („Narodne novine Hercegbosanske županije” broj: 3/96, 8/96 9/00 i 9/04, 10/05), Skupština Hercegbosanske županije na sjednici održanoj dana, 29. srpnja 2022. godine donosi

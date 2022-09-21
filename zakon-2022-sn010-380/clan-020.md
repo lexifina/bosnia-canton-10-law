@@ -1,0 +1,8 @@
+II. ZAKLJUČIVANJE UGOVORA O RADU
+Članak 20.
+(Uvjeti za zaključivanje ugovora o radu)
+(1) S osobom mlađom od 15 godina života ne može se zaključiti ugovor o radu, niti se ona može uposliti na bilo koju vrstu poslova.
+(2) Osoba u dobi između 15 i 18 godina (u daljnjem tekstu: malodobnik) može zaključiti ugovor o radu, odnosno uposliti se, uz suglasnost zakon skog zastupnika i pod uvjetom da od ovlaštenog liječnika ili mjerodavne zdravstvene ustanove pribavi liječničko uvjerenje kojim dokazuje da ima opću zdravstvenu sposobnost za rad.
+(3) Radni odnos zasniva se zaključivanjem ugovora o radu, a nakon provođenja procedure prijema propisane pravilnikom o radu poslodavca.
+(4) U zavodima, agencijama, direkcijama i upravnim organizacijama pod drugim nazivom, pravnim osobama s javnim ovlastima na području Hercegbosanske županije, kao i u javnim ustano vama i javnim poduzećima čiji je osnivač Županija, grad ili općina, te u gospodarskim društvima u kojima Županija, grad ili općina sudjeluje sa više od 50% ukupnog kapitala, prijem u radni odnos vrši se nakon provedene procedure obveznog javnog oglašavanja za prijem u radni odnos.
+(5) Vlade Hercegbosanske županije će u roku od 90 dana od dana stupanja na snagu ovog zako na, donijeti propis kojim će propisati postupak prijema u radni odnos iz stavka (4) ovog članka u zavodima, agencijama, direkcijama i upravnim organizacijama, pravnim osobama s javnim ovlastima na području županije, grada ili općine, u javnim ustanovama i javnim poduzećima čiji su osnivači županija, grad ili općina, te u gospodar skim društvima u kojima županija, grad ili općina sudjeluju sa više od 50% ukupnog kapitala.

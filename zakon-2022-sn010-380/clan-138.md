@@ -1,0 +1,9 @@
+Članak 138.
+(Strane u kolektivnom pregovaranju)
+(1) Granski kolektivni ugovor za područje županije zaključuju reprezentativna udruga poslodavaca i reprezentativni sindikat jednog ili više područja djelatnosti osnovani na području županije.
+(2) Granske kolektivne ugovore za upos lenike u tijelima državne službe, sudske vlasti, javnih ustanova i drugih proračunskih korisnika zaključuju mjerodavna ministarstva, odnosno Vlada županije s jedne strane i reprezentativni sindikati državnih službenika i namještenika, javnih ustanova i drugih proračunskih korisnika s druge strane.
+(3) Granski kolektivni ugovor za područja djelatnosti koja se financiraju iz proračuna ili izvan-proračunskih fondova, zaključuje Vlada Hercegbosanske županije, odnosno mjerodavna ministarstva s jedne strane i reprezentativni sindi kati tih područja djelatnosti s druge strane.
+(4) Granske kolektivne ugovore za javna poduzeća i javne ustanove čiji je osnivač županija, grad ili općina, zaključuju reprezentativni sindi kati i osnivači.
+(5) Granske kolektivne ugovore za gospodarska društva u kojima županija, grad ili općina sudjeluje s više od 50% ukupnog kapitala, pored reprezenta tivnog sindikata, zaključuju predstavnici nositelja državnog kapitala uz učešće reprezentativne udru ge poslodavaca, osim ako nije drugačije uređeno sporazumom Vlade županije, gradonačelnika ili načelnika općine sa reprezentativnom udrugom poslodavaca.
+(6) Pojedinačni kolektivni ugovor zaključuju reprezentativni sindikat kod poslodavca i posloda vac, a gdje se kao vlasnik pojavljuje županije, grad ili općina potrebno je prethodno pribaviti njihovu suglasnost.
+(7) U postupku pregovaranja radi zaključivanja kolektivnih ugovora iz st. 1., 2., 3. 4., 5. ovoga članka, reprezentativni sindikat dužan je surađivati s drugim sindikatima s manjim brojem članova, radi izražavanja interesa i uposlenika koji su učlanjeni u taj sindikat.

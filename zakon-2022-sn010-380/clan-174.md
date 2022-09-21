@@ -1,0 +1,6 @@
+Članak 174.
+(1) Poslodavci su dužni u roku tri mjeseca od dana stupanja na snagu ovoga zakona radniku ponuditi zaključivanje ugovora o radu, ukoliko isti nije sukladan odredbama ovoga zakona, a za poslodavce iz članka 173. ovoga zakona rok za usklađivanje ugovora o radu je tri mjeseca od dana usklađivanja pravilnika o radu.
+(2) Radnik, kojem poslodavac ne ponudi ugovor o radu iz stavka 1. ovoga članka, ostaje u radnom odnosu na neodređeno, odnosno određeno vrijeme.
+(3) Ugovor iz stavka 1. ovoga članka ne može biti nepovoljniji u pogledu uvjeta pod kojima je radni odnos zasnovan, odnosno pod kojima su bili uređeni radni odnosi radnika i poslodavca do dana zaključivanja ugovora iz stavka 1. ovoga članka, ako odredbama ovoga zakona ta pitanja nisu drukčije uređena.
+(4) Ako radnik ne prihvati ponudu poslodavca da zaključi ugovor o radu sukladno stavku 1. ovoga članka, prestaje mu radni odnos u roku 30 dana od dana dostave ugovora o radu na zaključivanje.
+(5) Ako radnik prihvati ponudu poslodavca, a smatra da ugovor koji mu je ponudio poslodavac nije sukladan stavku 3. ovoga članka, može pred mjerodavnim sudom osporiti valjanost ponude poslodavca u roku 30 dana od dana prihvaćanja ponude.

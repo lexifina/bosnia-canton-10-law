@@ -1,0 +1,7 @@
+Članak 9.
+(Uznemiravanje i nasilje na radu)
+(1) Poslodavcu i drugim osobama uposlenim kod poslodavca zabranjeno je uznemiravanje ili seksualno uznemiravanje, nasilje na temelju spola, kao i sustavno uznemiravanje na radu ili u svezi s radom (mobing) radnika i osoba koje traže uposlenje kod poslodavca.
+(2) Uznemiravanje u smislu stavka 1. ovoga članka je svako neželjeno ponašanje uzrokova no nekim od temelja iz članka 8. ovoga zakona koje ima za cilj ili predstavlja povredu dostojan stva radnika i osobe koja traži uposlenje, a koje uzrokuje strah ili neprijateljsko, ponižavajuće ili uvredljivo okruženje.
+(3) Seksualno uznemiravanje u smislu stavka 1. ovoga članka je svako ponašanje koje riječima ili radnjama seksualne prirode ima za cilj ili pred stavlja povredu dostojanstva radnika i osobe koja traži uposlenje, a koje izaziva strah ili stvara ponižavajuće ili uvredljivo okruženje.
+(4) Nasilje na temelju spola je bilo koje djelo koje nanosi fizičku, psihičku, seksualnu ili ekonomsku štetu ili patnju, kao i prijetnje takvim djelima koje ozbiljno sputavaju osobe u njihovim pravima i slobodama na načelu jednakopravnosti spolova na radu ili u svezi s radom.
+(5) Mobing predstavlja specifičnu formu nefizičkog uznemiravanja na radnom mjestu koje podrazumijeva ponavljanje radnji kojima jedna ili više osoba psihički zlostavljaju i ponižavaju drugu osobu, a čija je svrha ili posljedica ugrožavanje njezina ugleda, časti, dostojanstva, integriteta, degradacija radnih uvjeta ili profesionalnog statusa.
