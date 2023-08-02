@@ -1,0 +1,6 @@
+Članak 5.
+(Tučnjava i vršenje nasilja)
+(l) Tko na javnom mjestu govorom ili na drugi način potiče na tučnjavu ili vršenje nasilja, kaznit će se novčanom kaznom u iznosu od 200,00 KM do 400,00 KM.
+(2) Tko na javnom mjestu drugog udari ili vrši nasilje nad drugim ili sudjeluje u tučnjavi, kaznit će se novčanom kaznom u iznosu od 300,00 KM do 500,00 KM.
+(3) Tko prekršaj iz stavka (1) ovog članka počini u sastavu grupe’ ili se počinitelj uporabom maske ili drugog predmeta maskirao radi prikrivanja identiteta, ili ga počini zbog teže tjelesne ili duševne smetnje, invaliditeta, spola ili spolnog opredjeljen ja oštećenog ili ga počini prema djetetu, trudnici u vidnom stadiju trudnoće, starijoj ili nemoćnoj osobi, kaznit će se novčanom kaznom u iznosu od 400,00 do 800,00 KM.
+(4) Tko prekršaj iz stavka (2) ovog članka počini u sastavu grupe ili se počinitelj uporabom maske ili drugog predmeta maskirao radi prikri vanja identiteta, ili ga počini zbog teže tjelesne ili duševne smetnje, invaliditeta, spola ili spolnog opredjeljenja oštećenog ili ga počini prema djete tu, trudnici u vidnom stadiju trudnoće, starijoj ili nemoćnoj osobi, kaznit će se novčanom kaznom u iznosu od 500,00 do 1.000,00 KM.

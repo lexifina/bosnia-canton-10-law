@@ -1,0 +1,4 @@
+Članak 31.
+(Propuštanje obvezne brige prema maloljetniku)
+(1) Roditelj, usvojitelj ili staratelj koji je propus tio izvršiti dužno staranje o maloljetniku koji je od strane ovlaštene službene osobe Ministarstva zatečen u vremenu od 23,00 do 06,00 sati u ugos titeljskom objektu u kojem se konzumira alkohol ili na javnom mjestu bez nadzora roditelja, usvo jitelja ili staratelja ili druge osobe kojoj je roditelj ili usvojitelj ili staratelj povjerio maloljetnika na čuvanje, kaznit će se novčanom kaznom u iznosu od 200,00 KM do 500,00 KM.
+(2)Roditelj, usvojitelj ili staratelj maloljetnika ili štićenika koji je učinio prekršaj protiv javnog reda i mira propisan ovim Zakonom, ako je izvršenje prekršaja posljedica propuštanja dužnog staran ja o maloljetniku ili štićeniku, a u mogućnosti je da takvo staranje obavlja, kaznit će se novčanom kaznom u iznosu od 300,00 KM do 600,00 KM.

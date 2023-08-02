@@ -1,0 +1,12 @@
+Članak 41.
+(Prikupljanje priloga)
+(l)Pravne i fizičke osobe mogu prikupljati dobro voljne priloge građana, organizacija i zajednica, ako za to imaju odobrenje nadležnog tijela jedinice lokalne uprave na čijem području se prilozi priku pljaju, a koje se izdaje najkasnije u roku od tri dana od zaprimanja zahtjeva .
+(2)U zahtjevu kojim se traži odobrenje za priku pljanje dobrovoljnih priloga, pored ostalog mora se navesti svrha i način prikupljanja, mjere koje će se poduzeti radi osiguranja od eventualnih zloporaba u svezi s prikupljanjem, vrijeme za koje se traži odobrenje za prikupljanje i područje na kojem će se obavljati prikupljanje dobrovoljnih priloga.
+(3)Pravna osoba kojoj je odobreno prikupljanje dobrovoljnih priloga, dužna je provesti mjere osig uranja od zlouporabe koje su određene odobrenjem za prikupljanje dobrovoljnih priloga.
+(4)Zahtjev za izdavanje odobrenja za prikupljan je dobrovoljnih priloga može se odbiti ako priku pljanje dobrovoljnih priloga može izazvati uzne mirenje građana, narušiti javni red i mir ili ako nije opravdana svrha prikupljanja dobrovoljnih priloga, o čemu se donosi rješenje u roku od tri dana od zaprimanja zahtjeva.
+(5)Daljnje prikupljanje dobrovoljnih priloga može se rješenjem zabraniti iz razloga utvrđenih u prethodnom stavku ili ako se utvrdi da se ne provode mjere osiguranja od zlouporaba ili da su u zahtjevu navedeni netočni podaci o svrsi prikupl janja dobrovoljnih priloga.
+(6)Žalba na rješenje iz stavka (4) i (5) ovog članka podnosi se nositelju izvršne vlasti u jedinici lokalne uprave u roku od tri dana od zaprimanja rješenja. Žalba ne odlaže izvršenje rješenja, a odluku po istoj nositelj izvršne vlasti je dužan donijeti u roku od tri dana od zaprimanja iste.
+(7) Odobrenje za prikupljanje dobrovoljnih priloga nije potrebno u slučaju kada:
+a) se prilozi prikupljaju u vjerske svrhe, odnos no u okviru poduzeća ili druge pravne osobe za zajedničke potrebe ili potrebe pojedinih radnika tog poduzeća ili druge pravne osobe,
+b) prikupljanje priloga organizira mjesna zajed nica na svom području, zbor stanara u zgradi kojom upravlja ili pravna osoba registrirana za održavanje stambenih zgrada, radi određenih ciljeva u okviru djelatnosti mjesne zajednice, odnosno kućnog savjeta i
+c) se prilozi prikupljaju umjesto ulaznica za priredbe koje organiziraju političke udruge, sindi kati, udruge građana i drugi oblici udruživanja i organiziranja, a u skladu sa programom svojih aktivnosti.
