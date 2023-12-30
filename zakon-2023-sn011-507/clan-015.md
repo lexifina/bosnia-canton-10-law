@@ -1,0 +1,4 @@
+Članak 15
+(Stranke u postupku)
+(1) Stranka u postupku izdavanja naknadne lokacijske dozvole/informacije, naknadne građevinske dozvole i rješenja o legalizaciji jednostavnih objekata je podnositelj zahtjeva, vlasnik nekretnine za koju se izdaje naknadna lokacijska dozvola/ informacija, naknadna građevinska dozvola i rješenje o legalizaciji jednostavnih objekata i nositelj drugih stvarnih prava na toj nekretnini, te vlasnik i nositelj drugih stvarnih prava na nekretnini koja neposredno graniči s nekretninom za koju se izdaje naknadna lokacijska dozvola/informacija, naknadna građevinska dozvola i rješenje o legalizaciji jednostavnih objekata
+(2) Prije izdavanja naknadne lokacijske dozvole/informacije, naknadne građevinske dozvole i rješenja o legalizaciji jednostavnih objekata mjerodavna gradska/općinska služba, odnosno Ministarstvo, dužna(o) je stranki pružiti mogućnost uvida u spis predmeta radi izjašnjenja.
