@@ -1,0 +1,4 @@
+POGLAVLJE I - TEMELJNE ODREDBE
+Članak 1.
+(Predmet zakona)
+Ovim Zakonom se ureduju unutarnji poslovi iz nadležnosti Kantona 10 u daljnjem tekstu Kantona), nadležnost, ustroj i rukovođenje Ministarstvom unutarnjih poslova (u daljnjem tekstu: Ministarstvo), uključujući i nadležnost, ustroj i rukovođenje Upravom policije Ministarstva (u daljnjem tekstu: Uprava policije), imenovanje, sastav i funkcioniranje Neovisnog odbora za izbor i reviziju . izbor, imenovanje, mandat, praćenje rada, godišnja ocjena, razrješenje i disciplinska odgovornost policijskog komesara, sastav, imenovanje, nadležnost i mandat Ureda za pritužbe javnosti (u daljnjem tekstu: Ured), radni odnosi, međusobni odnosi i suradnja Ministarstva sa Ministarstvom sigurnosti Bosne i Hercegovine, drugim ministarstvima unutarnjih poslova i policijskim tijelima i tijelima uprave u Bosni i Hercegovini te druga pitanja od značaja za organizaciju, rad i ostvarivanje funkcije Ministarstva.

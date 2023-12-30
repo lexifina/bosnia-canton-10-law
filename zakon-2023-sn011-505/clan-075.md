@@ -1,0 +1,4 @@
+Članak 75.
+(Ovlaštenje za udruživanje financijskih sredstava)
+(1) Ministarstvo može zajednički koristiti udružena sredstva policijskih tijela u Bosni i Hercegovini: Ministarstva sigurnosti Bosne i Hercegovine, Federalne uprave policije, Uprava policije drugih županija. Ministarstva unutarnjih poslova Republike Srpske i Policije Distrikta Brčko Bosne i Hercegovine, u svezi sa stručnim osposobljavanjem i usavršavanjem policijskih službenika, znanstveno-istraživačkim radom relevantnim za potrebe policije, razvoja kompleksnih kriminalističkih i tehničkih stručnih procjena, osiguranjem policijske opreme, sustava informacijskih tehnologija i komunikacijskih sustava, naoružanja i drugih sličnih sredstava, kao i u svezi drugih zadataka iz svoje nadležnosti.
+(2) Detalji o zajedničkim financijskim i drugim sredstvima se dogovaraju na uzajamnoj osnovi i po potrebi posebnim ugovorom.

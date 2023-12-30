@@ -1,0 +1,6 @@
+Članak 26.
+(Zamjena policijskog komesara)
+(1) Načelnik Sektora uniformirane policije obavljat će dužnost policijskog komesara, do imenovanja novog policijskog komesara, ukoliko je policijskom komesaru istekao mandat, odnosno ako policijski komesar bude razriješen ili podnese ostavku, u slučaju smrti policijskog komesara, kao i u slučaju da policijski komesar nije u mogućnosti obavljati svoju dužnost zbog bolesti ili iz drugih razloga.
+(2) Ukoliko je načelnik Sektora uniformirane policije zbog bolesti, ili iz drugih razloga, spriječen obavljati dužnost policijskog komesara, Vlada će na prijedlog ministra, iz reda policijskih službenika uposlenih u Upravi policije, a koji ispunjavaju uvjete za policijskog komesara, imenovati osobu koja će obavljati dužnost policijskog komesara.
+(3) Načelnik Sektora uniformirane policije preuzima dužnost po nastupanju okolnosti iz stavka ( I ) ovog članka, a policijski službenik iz stavka (2) ovog članka preuzima dužnost u skladu s aktom o imenovanju.
+(4) Za vrijeme obavljanja dužnosti policijskog komesara, osobe iz stavka ( I ) i (2) ovog članka imaju sva prava, obveze, ovlaštenja i zadaće predviđene ovim člankom, kao i pravo na naknadu razlike plaće do iznosa osnovne plaće policijskog komesara, ako obavljaju dužnost policijskog komesara duže od 30 dana uzastopno.

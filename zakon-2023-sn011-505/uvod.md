@@ -1,0 +1,1 @@
+Temeljem članka 15. i 26. stavak (1) točke c) Ustava Hercegbosanske županije (“Narodne novine Hercegbosanske županije”, broj: 3/96, 9/00, 9/04 i 10/05). Skupština Hercegbosanskc županije na sjednici održanoj dana 22.11.2023. godine, donosi
