@@ -1,0 +1,11 @@
+{
+  "path": "ba-10",
+  "code": "BA-10",
+  "name": "Canton 10",
+  "level": "canton",
+  "parent": "ba-bih",
+  "repo": "https://github.com/lexifina/bosnia-canton-10-law",
+  "build": "built: laws of the Assembly of Canton 10 (Hercegbosanska županija) from the Narodne novine Hercegbosanske županije, 1996-2026, each as enacted, amending laws and official consolidated texts as acts of their own",
+  "language": "hr",
+  "sources": 1
+}

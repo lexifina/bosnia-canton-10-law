@@ -1,0 +1,725 @@
+{
+ "country": "BA-10",
+ "acts": [
+  {
+   "slug": "zakon-1998-sn010-129",
+   "path": "zakon-1998-sn010-129",
+   "short": "Zakon o robnim rezervama Hercegbosanske županije",
+   "title": "Zakon o robnim rezervama Hercegbosanske županije",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2010-98.pdf",
+   "versions": [
+    {
+     "from": "1998-07-11",
+     "units": 62,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2010-98.pdf",
+     "sha256": "745036b89577d7d36ca434b644cb403cbf61cae3507d7ab923166a74547aef45"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1998-sn010-131",
+   "path": "zakon-1998-sn010-131",
+   "short": "Zakon o poljoprivrednom zemljištu",
+   "title": "Zakon o poljoprivrednom zemljištu",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2010-98.pdf",
+   "versions": [
+    {
+     "from": "1998-07-11",
+     "units": 79,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2010-98.pdf",
+     "sha256": "745036b89577d7d36ca434b644cb403cbf61cae3507d7ab923166a74547aef45"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1998-sn010-133",
+   "path": "zakon-1998-sn010-133",
+   "short": "Zakon o ustanovama",
+   "title": "Zakon o ustanovama",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2010-98.pdf",
+   "versions": [
+    {
+     "from": "1998-07-11",
+     "units": 76,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2010-98.pdf",
+     "sha256": "745036b89577d7d36ca434b644cb403cbf61cae3507d7ab923166a74547aef45"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1998-sn013-189",
+   "path": "zakon-1998-sn013-189",
+   "short": "Zakon o izmjenama i dopunama zakona o šumama",
+   "title": "Zakon o izmjenama i dopunama zakona o šumama",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2013-98.pdf",
+   "versions": [
+    {
+     "from": "1998-09-22",
+     "units": 4,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2013-98.pdf",
+     "sha256": "7e3cf741ae81351770ce63210acb7150afc498873f3b2af7f2ad16c06c4c1b3c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1998-sn013-191",
+   "path": "zakon-1998-sn013-191",
+   "short": "Zakon o upravnim sporovima Hercegbosanske županije",
+   "title": "Zakon o upravnim sporovima Hercegbosanske županije",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2013-98.pdf",
+   "versions": [
+    {
+     "from": "1998-09-30",
+     "units": 14,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2013-98.pdf",
+     "sha256": "7e3cf741ae81351770ce63210acb7150afc498873f3b2af7f2ad16c06c4c1b3c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1998-sn013-194",
+   "path": "zakon-1998-sn013-194",
+   "short": "Zakon o imovini Hercegbosanske županije",
+   "title": "Zakon o imovini Hercegbosanske županije",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2013-98.pdf",
+   "versions": [
+    {
+     "from": "1998-09-30",
+     "units": 13,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2013-98.pdf",
+     "sha256": "7e3cf741ae81351770ce63210acb7150afc498873f3b2af7f2ad16c06c4c1b3c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1998-sn013-196",
+   "path": "zakon-1998-sn013-196",
+   "short": "Zakon o prekršajima protiv javnog reda i mira",
+   "title": "Zakon o prekršajima protiv javnog reda i mira",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2013-98.pdf",
+   "versions": [
+    {
+     "from": "1998-09-22",
+     "units": 37,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2013-98.pdf",
+     "sha256": "7e3cf741ae81351770ce63210acb7150afc498873f3b2af7f2ad16c06c4c1b3c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1998-sn013-198",
+   "path": "zakon-1998-sn013-198",
+   "short": "Zakon o javnom okupljanju",
+   "title": "Zakon o javnom okupljanju",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2013-98.pdf",
+   "versions": [
+    {
+     "from": "1998-09-23",
+     "units": 23,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2013-98.pdf",
+     "sha256": "7e3cf741ae81351770ce63210acb7150afc498873f3b2af7f2ad16c06c4c1b3c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1998-sn013-200",
+   "path": "zakon-1998-sn013-200",
+   "short": "Zakon o osobnom imenu",
+   "title": "Zakon o osobnom imenu",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2013-98.pdf",
+   "versions": [
+    {
+     "from": "1998-09-23",
+     "units": 15,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2013-98.pdf",
+     "sha256": "7e3cf741ae81351770ce63210acb7150afc498873f3b2af7f2ad16c06c4c1b3c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1998-sn013-202",
+   "path": "zakon-1998-sn013-202",
+   "short": "Zakon o osobnoj iskaznici",
+   "title": "Zakon o osobnoj iskaznici",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2013-98.pdf",
+   "versions": [
+    {
+     "from": "1998-09-23",
+     "units": 27,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2013-98.pdf",
+     "sha256": "7e3cf741ae81351770ce63210acb7150afc498873f3b2af7f2ad16c06c4c1b3c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1998-sn014-208",
+   "path": "zakon-1998-sn014-208",
+   "short": "Zakon o prostornom uređenju",
+   "title": "Zakon o prostornom uređenju",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2014-98.pdf",
+   "versions": [
+    {
+     "from": "1998-10-03",
+     "units": 58,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2014-98.pdf",
+     "sha256": "2d8e8f50326c0d72a614076669fd033afae5be1bd9ac66560d28d8d55b0a0bd6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1998-sn014-210",
+   "path": "zakon-1998-sn014-210",
+   "short": "Zakon o građenju",
+   "title": "Zakon o građenju",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2014-98.pdf",
+   "versions": [
+    {
+     "from": "1998-10-03",
+     "units": 96,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2014-98.pdf",
+     "sha256": "2d8e8f50326c0d72a614076669fd033afae5be1bd9ac66560d28d8d55b0a0bd6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1998-sn014-212",
+   "path": "zakon-1998-sn014-212",
+   "short": "Zakon o javnim cestama",
+   "title": "Zakon o javnim cestama",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2014-98.pdf",
+   "versions": [
+    {
+     "from": "1998-10-03",
+     "units": 67,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2014-98.pdf",
+     "sha256": "2d8e8f50326c0d72a614076669fd033afae5be1bd9ac66560d28d8d55b0a0bd6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-sn008-76",
+   "path": "zakon-2003-sn008-76",
+   "short": "Zakon o dopunama zakona o ustrojstvu i djelokrugu županijske",
+   "title": "Zakon o dopunama zakona o ustrojstvu i djelokrugu županijske uprave",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2003/NN_08_2003.pdf",
+   "versions": [
+    {
+     "from": "2003-08-23",
+     "units": 5,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2003/NN_08_2003.pdf",
+     "sha256": "546362ecd736aa052e18d43ecd227588d8597bc125046e04c6119af95d286ddb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-sn002-8",
+   "path": "zakon-2004-sn002-8",
+   "short": "Zakon o prestanku važenja zakona o porezu za obrazovanje i k",
+   "title": "Zakon o prestanku važenja zakona o porezu za obrazovanje i kulturu",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2004/NN_02_2004.pdf",
+   "versions": [
+    {
+     "from": "2004-03-23",
+     "units": 5,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2004/NN_02_2004.pdf",
+     "sha256": "b9ba2c6a3ebde115a77e440b3911a3f2c803f78dc24f8e2c35846b5693df8ec2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-sn002-9",
+   "path": "zakon-2004-sn002-9",
+   "short": "Zakon o izmjenama i dopunama zakona o pripadnosti javnih pri",
+   "title": "Zakon o izmjenama i dopunama zakona o pripadnosti javnih prihoda Hercegbosanske županije",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2004/NN_02_2004.pdf",
+   "versions": [
+    {
+     "from": "2004-03-15",
+     "units": 6,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2004/NN_02_2004.pdf",
+     "sha256": "b9ba2c6a3ebde115a77e440b3911a3f2c803f78dc24f8e2c35846b5693df8ec2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-sn010-200",
+   "path": "zakon-2005-sn010-200",
+   "short": "Zakon o izmjenama zakona o lokalnoj samoupravi",
+   "title": "Zakon o izmjenama zakona o lokalnoj samoupravi",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2005/NN_10_2005.pdf",
+   "versions": [
+    {
+     "from": "2005-11-20",
+     "units": 5,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2005/NN_10_2005.pdf",
+     "sha256": "a1800e52ae831de07df5b72f5d32b37b575e39935ec7342e696b479ae95ac6b5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-sn011-231",
+   "path": "zakon-2005-sn011-231",
+   "short": "Zakon o nabavci, držanju i nošenju oružja i streljiva",
+   "title": "Zakon o nabavci, držanju i nošenju oružja i streljiva",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2005/NN_11_2005.pdf",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 97,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2005/NN_11_2005.pdf",
+     "sha256": "9242d50931e35ed681e7cf81fe8582c6c32e680e02ded0b051b5b8153a533bf4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-sn011-232",
+   "path": "zakon-2005-sn011-232",
+   "short": "Zakon o zdravstvenoj zaštiti",
+   "title": "Zakon o zdravstvenoj zaštiti",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2005/NN_11_2005.pdf",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 144,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2005/NN_11_2005.pdf",
+     "sha256": "9242d50931e35ed681e7cf81fe8582c6c32e680e02ded0b051b5b8153a533bf4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-sn008-177",
+   "path": "zakon-2006-sn008-177",
+   "short": "Zakon o visokom školstvu",
+   "title": "Zakon o visokom školstvu",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2006/NN_08_2006.pdf",
+   "versions": [
+    {
+     "from": "2006-08-24",
+     "units": 114,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2006/NN_08_2006.pdf",
+     "sha256": "3bc1ecd008c39551c2ec3c3db3a57e7350abef940f570bfd052079006b05a492"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-sn004-64",
+   "path": "zakon-2007-sn004-64",
+   "short": "Zakon o javnom redu i miru",
+   "title": "Zakon o javnom redu i miru",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2007/NN_04_2007.pdf",
+   "versions": [
+    {
+     "from": "2007-06-23",
+     "units": 49,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2007/NN_04_2007.pdf",
+     "sha256": "48513cc69e9eb3aed0b97b7b61c76b82806237a3b53de5510cdb6064b0eb8622"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-sn012-325",
+   "path": "zakon-2008-sn012-325",
+   "short": "Zakon o izmjenama i dopunama zakona o osnovnom školstvu",
+   "title": "Zakon o izmjenama i dopunama zakona o osnovnom školstvu",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2008/NN_12_2008.pdf",
+   "versions": [
+    {
+     "from": "2008-12-16",
+     "units": 22,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2008/NN_12_2008.pdf",
+     "sha256": "fefb6358d0b7801625477965a11b758640823e7098842f3c5623472211e812d9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-sn012-326",
+   "path": "zakon-2008-sn012-326",
+   "short": "Zakon o izmjenama i dopunama zakona o srednjem školstvu",
+   "title": "Zakon o izmjenama i dopunama zakona o srednjem školstvu",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2008/NN_12_2008.pdf",
+   "versions": [
+    {
+     "from": "2008-12-16",
+     "units": 35,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2008/NN_12_2008.pdf",
+     "sha256": "fefb6358d0b7801625477965a11b758640823e7098842f3c5623472211e812d9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn004-55",
+   "path": "zakon-2009-sn004-55",
+   "short": "Zakon o dopunama zakona o imovini Hercegbosanske županije",
+   "title": "Zakon o dopunama zakona o imovini Hercegbosanske županije",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2009/NN_04_2009.pdf",
+   "versions": [
+    {
+     "from": "2009-06-06",
+     "units": 7,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2009/NN_04_2009.pdf",
+     "sha256": "e17a812d6f236f40c414cde24d44619dce960eb926100e61c94dcc474f72e243"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn005-86",
+   "path": "zakon-2009-sn005-86",
+   "short": "Zakon o izmjenama i dopunama zakona o nostrifikaciji i ekviv",
+   "title": "Zakon o izmjenama i dopunama zakona o nostrifikaciji i ekvivalenciji obrazovnih isprava",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2009/NN_05_2009.pdf",
+   "versions": [
+    {
+     "from": "2009-06-29",
+     "units": 6,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2009/NN_05_2009.pdf",
+     "sha256": "98410033e9d2def51e5e2c164685796e81551c43cb37f6f6c46519118f87a999"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn008-167",
+   "path": "zakon-2009-sn008-167",
+   "short": "Zakon o predškolskom odgoju i obrazovanju u Hercegbosanskoj",
+   "title": "Zakon o predškolskom odgoju i obrazovanju u Hercegbosanskoj županiji",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2009/Broj%2008%202009.pdf",
+   "versions": [
+    {
+     "from": "2009-10-31",
+     "units": 85,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2009/Broj%2008%202009.pdf",
+     "sha256": "e602642d7ac8edd75c7d057f571e56f81ab378ab89019491acfc3b036fe7a3be"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn008-168",
+   "path": "zakon-2009-sn008-168",
+   "short": "Zakon o dopunama zakona o ustrojstvu i djelokrugu županijske",
+   "title": "Zakon o dopunama zakona o ustrojstvu i djelokrugu županijske uprave",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2009/Broj%2008%202009.pdf",
+   "versions": [
+    {
+     "from": "2009-10-24",
+     "units": 5,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2009/Broj%2008%202009.pdf",
+     "sha256": "e602642d7ac8edd75c7d057f571e56f81ab378ab89019491acfc3b036fe7a3be"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn009-210",
+   "path": "zakon-2009-sn009-210",
+   "short": "Zakon o načinu ostvarivanja ušteda u Hercegbosanskoj županij",
+   "title": "Zakon o načinu ostvarivanja ušteda u Hercegbosanskoj županiji",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2009/NN_09_2009.pdf",
+   "versions": [
+    {
+     "from": "2009-11-21",
+     "units": 11,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2009/NN_09_2009.pdf",
+     "sha256": "e7bbb938f29102a2451b7ea83720d6cd0d2e679fb7cad400ea41ec0c8ba4e013"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn009-211",
+   "path": "zakon-2009-sn009-211",
+   "short": "Zakon o visokom obrazovanju",
+   "title": "Zakon o visokom obrazovanju",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2009/NN_09_2009.pdf",
+   "versions": [
+    {
+     "from": "2009-11-28",
+     "units": 166,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2009/NN_09_2009.pdf",
+     "sha256": "e7bbb938f29102a2451b7ea83720d6cd0d2e679fb7cad400ea41ec0c8ba4e013"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sn002-23",
+   "path": "zakon-2010-sn002-23",
+   "short": "Zakon o poljoprivrednom zemljištu",
+   "title": "Zakon o poljoprivrednom zemljištu",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2010/NN_02_2010.pdf",
+   "versions": [
+    {
+     "from": "2010-03-20",
+     "units": 145,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2010/NN_02_2010.pdf",
+     "sha256": "3e6772584863e620e63aac3b55924d616cd731354e4d32e4024ea2cf62e06fe3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sn005-94",
+   "path": "zakon-2010-sn005-94",
+   "short": "Zakon o izmjenama zakona o zaštiti od požara",
+   "title": "Zakon o izmjenama zakona o zaštiti od požara",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2010/NN_05_2010.pdf",
+   "versions": [
+    {
+     "from": "2010-06-26",
+     "units": 7,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2010/NN_05_2010.pdf",
+     "sha256": "aae3fd3441d1b923002ccd8d16cbe7ddd14eeb074dbf177e3c40215d99b91283"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn001-1",
+   "path": "zakon-2013-sn001-1",
+   "short": "Zakon o posredovanju pri upošljavanju i socijalnoj sigurnost",
+   "title": "Zakon o posredovanju pri upošljavanju i socijalnoj sigurnosti neuposlenih osoba Hercegbosanske županije 1- temeljne odredbe",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2013/BROJ_1_2013.pdf",
+   "versions": [
+    {
+     "from": "2013-01-22",
+     "units": 58,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2013/BROJ_1_2013.pdf",
+     "sha256": "fdcbfab560128b315fd743913e1332d9aacb5fc1642c7a7e63b1515cf2f640cd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn001-2",
+   "path": "zakon-2013-sn001-2",
+   "short": "Zakon o zaštiti na radu",
+   "title": "Zakon o zaštiti na radu",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2013/BROJ_1_2013.pdf",
+   "versions": [
+    {
+     "from": "2013-01-22",
+     "units": 124,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2013/BROJ_1_2013.pdf",
+     "sha256": "fdcbfab560128b315fd743913e1332d9aacb5fc1642c7a7e63b1515cf2f640cd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn005-90",
+   "path": "zakon-2013-sn005-90",
+   "short": "Zakon o sudskim pristojbama",
+   "title": "Zakon o sudskim pristojbama",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2013/BROJ_5_2013.pdf",
+   "versions": [
+    {
+     "from": "2013-06-05",
+     "units": 46,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2013/BROJ_5_2013.pdf",
+     "sha256": "318f6a7dcc7312aacea6b41df099a8b5fb50d9832b931e16c41e068cb743f6c8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sn008-174",
+   "path": "zakon-2014-sn008-174",
+   "short": "Zakon o javnom okupljanju",
+   "title": "Zakon o javnom okupljanju",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2014/BROJ_8_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-06-25",
+     "units": 48,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2014/BROJ_8_2014.pdf",
+     "sha256": "785e7cbb3d1c5a94548626209c445fc1580b4f0ab6c278f3b368774405cbb971"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sn008-175",
+   "path": "zakon-2014-sn008-175",
+   "short": "Zakon o izmjenama i dopunama zakona o ustrojstvu i djelokrug",
+   "title": "Zakon o izmjenama i dopunama zakona o ustrojstvu i djelokrugu županijske uprave",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2014/BROJ_8_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-06-25",
+     "units": 6,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2014/BROJ_8_2014.pdf",
+     "sha256": "785e7cbb3d1c5a94548626209c445fc1580b4f0ab6c278f3b368774405cbb971"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sn009-203",
+   "path": "zakon-2014-sn009-203",
+   "short": "Zakon o prosvjetnoj inspekciji",
+   "title": "Zakon o prosvjetnoj inspekciji",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2014/BROJ_9_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-07-05",
+     "units": 41,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2014/BROJ_9_2014.pdf",
+     "sha256": "904102cbf0b533d792d8c3ca277054140ecc1257539105b4a724ada19b8611da"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-sn009-294",
+   "path": "zakon-2017-sn009-294",
+   "short": "Zakon o korištenju, upravljanju i održavanju zajedničkih dij",
+   "title": "Zakon o korištenju, upravljanju i održavanju zajedničkih dijelova i uređaja zgrada",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2017/narodne%20novine%209.pdf",
+   "versions": [
+    {
+     "from": "2017-10-04",
+     "units": 54,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2017/narodne%20novine%209.pdf",
+     "sha256": "96d27bad9eb1df8e61fe281d2056fc50d297f07d36d3252b4732e1e6a5663dc7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sn007-224",
+   "path": "zakon-2018-sn007-224",
+   "short": "Zakon o izmjenama i dopunama zakona o oružju i streljivu Her",
+   "title": "Zakon o izmjenama i dopunama zakona o oružju i streljivu Hercegbosanske županije",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2018/Narodne%20novine%20broj%207.pdf",
+   "versions": [
+    {
+     "from": "2018-10-30",
+     "units": 10,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2018/Narodne%20novine%20broj%207.pdf",
+     "sha256": "80b57fd1f20a2f40c9ec2ce06deb81a94760b77e3e2c8e8ad02db426a102c469"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sn007-225",
+   "path": "zakon-2018-sn007-225",
+   "short": "Zakon o dopuni zakona o unutarnjim poslovima kantona 10",
+   "title": "Zakon o dopuni zakona o unutarnjim poslovima kantona 10",
+   "url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2018/Narodne%20novine%20broj%207.pdf",
+   "versions": [
+    {
+     "from": "2018-10-30",
+     "units": 5,
+     "source_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2018/Narodne%20novine%20broj%207.pdf",
+     "sha256": "80b57fd1f20a2f40c9ec2ce06deb81a94760b77e3e2c8e8ad02db426a102c469"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn010-377",
+   "path": "zakon-2022-sn010-377",
+   "short": "Zakon o dopunama zakona o ustrojstvu i djelokrugu županijske",
+   "title": "Zakon o dopunama zakona o ustrojstvu i djelokrugu županijske uprave",
+   "url": "https://www.vladahbz.com/sadrzaj/slike/objave/2022/10/Narodne-novine-broj-10.pdf",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 6,
+     "source_url": "https://www.vladahbz.com/sadrzaj/slike/objave/2022/10/Narodne-novine-broj-10.pdf",
+     "sha256": "ddda9d943a66ac7333925e6d7ddbfd6ee2c55d1de08740589cb595c2ad5aa994"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn010-378",
+   "path": "zakon-2022-sn010-378",
+   "short": "Zakon o dopuni zakona o državnim službenicima i namještenici",
+   "title": "Zakon o dopuni zakona o državnim službenicima i namještenicima u tijelima državne službe u Hercegbosanskoj županiji",
+   "url": "https://www.vladahbz.com/sadrzaj/slike/objave/2022/10/Narodne-novine-broj-10.pdf",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 5,
+     "source_url": "https://www.vladahbz.com/sadrzaj/slike/objave/2022/10/Narodne-novine-broj-10.pdf",
+     "sha256": "ddda9d943a66ac7333925e6d7ddbfd6ee2c55d1de08740589cb595c2ad5aa994"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn010-379",
+   "path": "zakon-2022-sn010-379",
+   "short": "Zakon o izmjenama i dopuni zakona o zdravstvenoj zaštiti",
+   "title": "Zakon o izmjenama i dopuni zakona o zdravstvenoj zaštiti",
+   "url": "https://www.vladahbz.com/sadrzaj/slike/objave/2022/10/Narodne-novine-broj-10.pdf",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 10,
+     "source_url": "https://www.vladahbz.com/sadrzaj/slike/objave/2022/10/Narodne-novine-broj-10.pdf",
+     "sha256": "ddda9d943a66ac7333925e6d7ddbfd6ee2c55d1de08740589cb595c2ad5aa994"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn010-380",
+   "path": "zakon-2022-sn010-380",
+   "short": "Zakon o radu",
+   "title": "Zakon o radu",
+   "url": "https://www.vladahbz.com/sadrzaj/slike/objave/2022/10/Narodne-novine-broj-10.pdf",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 182,
+     "source_url": "https://www.vladahbz.com/sadrzaj/slike/objave/2022/10/Narodne-novine-broj-10.pdf",
+     "sha256": "ddda9d943a66ac7333925e6d7ddbfd6ee2c55d1de08740589cb595c2ad5aa994"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sn006-217",
+   "path": "zakon-2023-sn006-217",
+   "short": "Zakon o javnom redu i miru",
+   "title": "Zakon o javnom redu i miru",
+   "url": "https://www.vladahbz.com/sadrzaj/slike/objave/2023/07/narodne-novine-6.pdf",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 52,
+     "source_url": "https://www.vladahbz.com/sadrzaj/slike/objave/2023/07/narodne-novine-6.pdf",
+     "sha256": "1b3056746aa935a46c5a009f69628c563e688e6cbcaf0fb129c9e5a820b814b9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sn011-505",
+   "path": "zakon-2023-sn011-505",
+   "short": "Zakon o unutarnjim poslovima kantona 10",
+   "title": "Zakon o unutarnjim poslovima kantona 10",
+   "url": "https://www.vladahbz.com/sadrzaj/slike/objave/2024/01/Narodne-novine-11.pdf",
+   "versions": [
+    {
+     "from": "2023-12-30",
+     "units": 92,
+     "source_url": "https://www.vladahbz.com/sadrzaj/slike/objave/2024/01/Narodne-novine-11.pdf",
+     "sha256": "1886e964c9779c70a5a216e5faf978dc8b1c1de85b5dc900888d57bb1d615fbf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sn011-507",
+   "path": "zakon-2023-sn011-507",
+   "short": "Zakon o uvjetima i postupku legaliziranja bespravno izgrađen",
+   "title": "Zakon o uvjetima i postupku legaliziranja bespravno izgrađenih građevina i građevina privremenog karaktera",
+   "url": "https://www.vladahbz.com/sadrzaj/slike/objave/2024/01/Narodne-novine-11.pdf",
+   "versions": [
+    {
+     "from": "2023-12-30",
+     "units": 36,
+     "source_url": "https://www.vladahbz.com/sadrzaj/slike/objave/2024/01/Narodne-novine-11.pdf",
+     "sha256": "1886e964c9779c70a5a216e5faf978dc8b1c1de85b5dc900888d57bb1d615fbf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn009-462",
+   "path": "zakon-2025-sn009-462",
+   "short": "Zakon o izmjenama i dopunama zakona o sigurnosti prometa na",
+   "title": "Zakon o izmjenama i dopunama zakona o sigurnosti prometa na cestama u Hercegbosanskoj županiji",
+   "url": "https://www.vladahbz.com/sadrzaj/slike/objave/2025/12/narodne-novine-9_compressed.pdf",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 17,
+     "source_url": "https://www.vladahbz.com/sadrzaj/slike/objave/2025/12/narodne-novine-9_compressed.pdf",
+     "sha256": "f5fb20fb4bf1af64bf86840645b9de1ec56694bab31cbbfac5e7f5682561aafb"
+    }
+   ]
+  }
+ ]
+}
