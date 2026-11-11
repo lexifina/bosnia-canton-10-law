@@ -1,0 +1,574 @@
+{
+"note": "In-scope acts held back from main, with the reason and the official page.",
+"count": 64,
+"acts": [
+{
+"act": "law no. 7",
+"gazette": "Narodne novine Hercegbosanske županije 1/1996",
+"date": "1996-04-10",
+"act_no": 7,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no title",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1996/NN_01_1996.pdf"
+},
+{
+"act": "law no. 8",
+"gazette": "Narodne novine Hercegbosanske županije 1/1996",
+"date": "1996-04-10",
+"act_no": 8,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no title",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1996/NN_01_1996.pdf"
+},
+{
+"act": "o Agenciji za privatizaciju u Hercegbosanskoj županiji",
+"gazette": "Narodne novine Hercegbosanske županije 2/1998",
+"date": "1998-02-28",
+"act_no": 12,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/NN_02_1998.pdf"
+},
+{
+"act": "law no. 59",
+"gazette": "Narodne novine Hercegbosanske županije 5/1998",
+"date": "1998-03-28",
+"act_no": 59,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no title",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/NN_05_1998.pdf"
+},
+{
+"act": "law no. 61",
+"gazette": "Narodne novine Hercegbosanske županije 5/1998",
+"date": "1998-03-28",
+"act_no": 61,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no title",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/NN_05_1998.pdf"
+},
+{
+"act": "law no. 181",
+"gazette": "Narodne novine Hercegbosanske županije 13/1998",
+"date": "1998-09-22",
+"act_no": 181,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: duplicate clan-001",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2013-98.pdf"
+},
+{
+"act": "o izvršenju proračuna Hercegbosanske županije za 1998. godinu",
+"gazette": "Narodne novine Hercegbosanske županije 13/1998",
+"date": "1998-09-22",
+"act_no": 183,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2013-98.pdf"
+},
+{
+"act": "o pripadnosti javnih prihoda Hercegbosanske županije",
+"gazette": "Narodne novine Hercegbosanske županije 13/1998",
+"date": "1998-09-22",
+"act_no": 187,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2013-98.pdf"
+},
+{
+"act": "o radu",
+"gazette": "Narodne novine Hercegbosanske županije 13/1998",
+"date": "1998-09-22",
+"act_no": 204,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/1998/broj%2013-98.pdf"
+},
+{
+"act": "law no. 33",
+"gazette": "Narodne novine Hercegbosanske županije 6/2001",
+"date": "2001-06-04",
+"act_no": 33,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2001/NN_06_2001.pdf"
+},
+{
+"act": "law no. 1",
+"gazette": "Narodne novine Hercegbosanske županije 3/2003",
+"date": "2003-04-15",
+"act_no": 1,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: duplicate clan-004",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2003/NN_03_2003.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o unutarnjim poslovima kantona 10",
+"gazette": "Narodne novine Hercegbosanske županije 6/2003",
+"date": "2003-06-12",
+"act_no": 52,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2003/Broj%206%202003.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o unutarnjim poslovima Kantona 10",
+"gazette": "Narodne novine Hercegbosanske županije 6/2003",
+"date": "2003-06-12",
+"act_no": 53,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2003/Broj%206%202003.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o pravobraniteljstvu",
+"gazette": "Narodne novine Hercegbosanske županije 8/2003",
+"date": "2003-08-22",
+"act_no": 77,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2003/NN_08_2003.pdf"
+},
+{
+"act": "o izmjenama Zakona o unutarnjim poslovima Kantona 10",
+"gazette": "Narodne novine Hercegbosanske županije 11/2003",
+"date": "2003-10-10",
+"act_no": 111,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2003/NN_11_2003.pdf"
+},
+{
+"act": "law no. 27",
+"gazette": "Narodne novine Hercegbosanske županije 3/2004",
+"date": "2004-04-06",
+"act_no": 27,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no law name",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2004/NN_03_2004.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o radu",
+"gazette": "Narodne novine Hercegbosanske županije 7/2005",
+"date": "2005-08-25",
+"act_no": 124,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2005/NN_07_2005.pdf"
+},
+{
+"act": "o poljoprivrednom zemljištu I-OPĆE ODREDBE",
+"gazette": "Narodne novine Hercegbosanske županije 11/2005",
+"date": "2005-12-20",
+"act_no": 233,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2005/NN_11_2005.pdf"
+},
+{
+"act": "o nostrifikaciji i ekvivalenciji obrazovnih isprava",
+"gazette": "Narodne novine Hercegbosanske županije 11/2006",
+"date": "2006-10-16",
+"act_no": 239,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2006/NN_11_2006.pdf"
+},
+{
+"act": "o dopunskim pravima branitelja",
+"gazette": "Narodne novine Hercegbosanske županije 11/2006",
+"date": "2006-10-16",
+"act_no": 240,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2006/NN_11_2006.pdf"
+},
+{
+"act": "O POLICIJSKIM SLUŽBENICIMA KANTONA 10",
+"gazette": "Narodne novine Hercegbosanske županije 4/2007",
+"date": "2007-06-15",
+"act_no": 63,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2007/NN_04_2007.pdf"
+},
+{
+"act": "O DOPUNAMA ZAKONA O USTROJSTVU I DJELOKRUGU ŽUPANIJSKE UPRAVE",
+"gazette": "Narodne novine Hercegbosanske županije 11/2007",
+"date": "2007-12-28",
+"act_no": 234,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2007/NN_11_2007.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o porezima Hercegbosanske županije",
+"gazette": "Narodne novine Hercegbosanske županije 8/2008",
+"date": "2008-08-18",
+"act_no": 195,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2008/NN_08_2008.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o policijskim službenicima Kantona 10",
+"gazette": "Narodne novine Hercegbosanske županije 8/2008",
+"date": "2008-08-18",
+"act_no": 196,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2008/NN_08_2008.pdf"
+},
+{
+"act": "o dopunama Zakona o koncesijama",
+"gazette": "Narodne novine Hercegbosanske županije 8/2008",
+"date": "2008-08-18",
+"act_no": 197,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2008/NN_08_2008.pdf"
+},
+{
+"act": "o eksplozivnim tvarima",
+"gazette": "Narodne novine Hercegbosanske županije 2/2009",
+"date": "2009-02-20",
+"act_no": 15,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2009/NN_02_2009.pdf"
+},
+{
+"act": "law no. 241",
+"gazette": "Narodne novine Hercegbosanske županije 10/2009",
+"date": "2009-12-30",
+"act_no": 241,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: duplicate clan-028",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2009/NN_10_2009.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o porezima Hercegbosanske županije",
+"gazette": "Narodne novine Hercegbosanske županije 2/2010",
+"date": "2010-03-12",
+"act_no": 24,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2010/NN_02_2010.pdf"
+},
+{
+"act": "o izvršavanju Proračuna Hercegbosanske županije za 2012. godinu L Opće odredbe",
+"gazette": "Narodne novine Hercegbosanske županije 5/2012",
+"date": "2012-09-24",
+"act_no": 58,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2012/BROJ_5_2012.pdf"
+},
+{
+"act": "o izmjenama Zakona o javnom pravobraniteljstvu HBŽ",
+"gazette": "Narodne novine Hercegbosanske županije 1/2013",
+"date": "2013-01-14",
+"act_no": 3,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2013/BROJ_1_2013.pdf"
+},
+{
+"act": "o izvršavanju Proračuna Hercegbosanske županije za 2013. godinu",
+"gazette": "Narodne novine Hercegbosanske županije 5/2013",
+"date": "2013-05-28",
+"act_no": 92,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2013/BROJ_5_2013.pdf"
+},
+{
+"act": "o oružju i streljivu Hercegbosanske županije",
+"gazette": "Narodne novine Hercegbosanske županije 6/2013",
+"date": "2013-07-05",
+"act_no": 107,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2013/BROJ_6_2013.pdf"
+},
+{
+"act": "o sigurnosti prometa na cestama u Hercegbosanskoj županiji",
+"gazette": "Narodne novine Hercegbosanske županije 6/2013",
+"date": "2013-07-05",
+"act_no": 108,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2013/BROJ_6_2013.pdf"
+},
+{
+"act": "o državnim službenicima i namještenicima u tijelima državne službe u Hercegbosanskoj županiji",
+"gazette": "Narodne novine Hercegbosanske županije 1/2014",
+"date": "2014-01-13",
+"act_no": 4,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2014/BROJ_1_2014.pdf"
+},
+{
+"act": "o izvršavanju Rebalansa proračunaHercegbosanske županije za 2013. godinu",
+"gazette": "Narodne novine Hercegbosanske županije 1/2014",
+"date": "2014-01-13",
+"act_no": 6,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2014/BROJ_1_2014.pdf"
+},
+{
+"act": "o šumama Hercegbosanske županije",
+"gazette": "Narodne novine Hercegbosanske županije 4/2014",
+"date": "2014-03-31",
+"act_no": 105,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2014/BROJ_4_2014.pdf"
+},
+{
+"act": "law no. 4",
+"gazette": "Narodne novine Hercegbosanske županije 7/2014",
+"date": "2014-06-09",
+"act_no": 4,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: duplicate clan-003",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2014/BROJ_7_2014.pdf"
+},
+{
+"act": "o prostornom uređenju",
+"gazette": "Narodne novine Hercegbosanske županije 12/2014",
+"date": "2014-07-25",
+"act_no": 284,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2014/BROJ_12_2014.pdf"
+},
+{
+"act": "o izvršavanju Rebalansa proračuna Hercegbosanske županije za 2014. godinu",
+"gazette": "Narodne novine Hercegbosanske županije 1/2015",
+"date": "2015-01-30",
+"act_no": 1,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2015/BROJ_1_2015.pdf"
+},
+{
+"act": "o izvršavanju proračuna Hercegbosanske županije za 2015. godinu",
+"gazette": "Narodne novine Hercegbosanske županije 3/2015",
+"date": "2015-05-04",
+"act_no": 81,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2015/BROJ_3_2015.pdf"
+},
+{
+"act": "o vodama Hercegbosanske županije",
+"gazette": "Narodne novine Hercegbosanske županije 8/2015",
+"date": "2015-12-15",
+"act_no": 298,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2015/BROJ_8_2015.pdf"
+},
+{
+"act": "o izvršavanju Rebalansa Proračuna Hercegbosanske županije za 2015. godinu",
+"gazette": "Narodne novine Hercegbosanske županije 1/2016",
+"date": "2016-01-29",
+"act_no": 2,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2016/NARODNE_NOVINE_BR_1-2016.pdf"
+},
+{
+"act": "O IZVRŠAVANJU PRORAČUNA HERCEGBOSANSKE ŽUPANIJE ZA 2016. GODINU",
+"gazette": "Narodne novine Hercegbosanske županije 4/2016",
+"date": "2016-05-12",
+"act_no": 121,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2016/NARODNE_NOVINE_BR_4-2016.pdf"
+},
+{
+"act": "O IZVRŠAVANJU PRORAČUNA HERCEGBOSANSKE ŽUPANIJE ZA 2018. GODINU 1. Opće odredbe",
+"gazette": "Narodne novine Hercegbosanske županije 1/2018",
+"date": "2018-01-24",
+"act_no": 2,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2018/Narodne%20novine%20broj%201.pdf"
+},
+{
+"act": "law no. 223",
+"gazette": "Narodne novine Hercegbosanske županije 7/2018",
+"date": "2018-10-22",
+"act_no": 223,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: fewer than two articles",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2018/Narodne%20novine%20broj%207.pdf"
+},
+{
+"act": "O IZVRŠAVANJU PRORAČUNA HERCEGBOSANSKE ŽUPANIJE ZA 2019. GODINU",
+"gazette": "Narodne novine Hercegbosanske županije 4/2019",
+"date": "2019-04-15",
+"act_no": 66,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2019/Narodne%20novine%20broj%204%20.pdf"
+},
+{
+"act": "O IZVRŠAVANJU PRORAČUNA HERCEGBOSANSKE ŽUPANIJE ZA 2020. GODINU",
+"gazette": "Narodne novine Hercegbosanske županije 3/2020",
+"date": "2020-04-22",
+"act_no": 2,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2020/Narodne%20novine%20br%203.pdf"
+},
+{
+"act": "O IZVRŠAVANJU REBALANSA PRORAČUNA HERCEGBOSANSKE ŽUPANIJE ZA 2020. GODINU",
+"gazette": "Narodne novine Hercegbosanske županije 6/2020",
+"date": "2020-08-11",
+"act_no": 2,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.vladahbz.com/sadrzaj/dokumenti/narodne-novine/2020/Narodne%20novine%20br%206.pdf"
+},
+{
+"act": "O IZVRŠAVANJU PRORAČUNA HERCEGBOSANSKE ŽUPANIJE ZA 2021. GODINU",
+"gazette": "Narodne novine Hercegbosanske županije 3/2021",
+"date": "2021-04-22",
+"act_no": 94,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.vladahbz.com/sadrzaj/slike/objave/2022/05/Narodne-novine-broj-3.compressed.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠAVANJU PRORAČUNA HERCEGBOSANSKE ŽUPANIJE ZA 2022. GODINU",
+"gazette": "Narodne novine Hercegbosanske županije 12/2022",
+"date": "2022-11-03",
+"act_no": 423,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://www.vladahbz.com/sadrzaj/slike/objave/2022/11/narodne-novine-12_compressed.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O SOCIJALNOJ SKRBI",
+"gazette": "Narodne novine Hercegbosanske županije 6/2023",
+"date": "2023-07-25",
+"act_no": 218,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.vladahbz.com/sadrzaj/slike/objave/2023/07/narodne-novine-6.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠAVANJU PRORAČUNA HERCEGBOSANSKE ŽUPANIJE ZA 2023. GODINU",
+"gazette": "Narodne novine Hercegbosanske županije 11/2023",
+"date": "2023-12-22",
+"act_no": 504,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://www.vladahbz.com/sadrzaj/slike/objave/2024/01/Narodne-novine-11.pdf"
+},
+{
+"act": "O POLICIJSKIM SLUŽBENICIMA KANTONA 10",
+"gazette": "Narodne novine Hercegbosanske županije 11/2023",
+"date": "2023-12-22",
+"act_no": 506,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.vladahbz.com/sadrzaj/slike/objave/2024/01/Narodne-novine-11.pdf"
+},
+{
+"act": "O IZVRŠAVANJU PRORAČUNA HERCEGBOSANSKE ŽUPANIJE ZA 2024. GODINU",
+"gazette": "Narodne novine Hercegbosanske županije 2/2024",
+"date": "2024-02-27",
+"act_no": 88,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.vladahbz.com/sadrzaj/slike/objave/2024/03/Narodne-novine-2-2.pdf"
+},
+{
+"act": "O MIRNOM OKUPLJANJU",
+"gazette": "Narodne novine Hercegbosanske županije 5/2024",
+"date": "2024-07-09",
+"act_no": 207,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.vladahbz.com/sadrzaj/slike/objave/2024/07/narodne-novine-5-1_pdftodo_f4zq0iw33q4jlzjwgp4hr2ve_compressed-1.pdf"
+},
+{
+"act": "O JAVNIM PRIREDBAMA",
+"gazette": "Narodne novine Hercegbosanske županije 5/2024",
+"date": "2024-07-09",
+"act_no": 208,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.vladahbz.com/sadrzaj/slike/objave/2024/07/narodne-novine-5-1_pdftodo_f4zq0iw33q4jlzjwgp4hr2ve_compressed-1.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠAVANJU PRORAČUNA HERCEGBOSANSKE ŽUPANIJE ZA 2024. GODINU",
+"gazette": "Narodne novine Hercegbosanske županije 8/2024",
+"date": "2024-09-13",
+"act_no": 419,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://www.vladahbz.com/sadrzaj/slike/objave/2024/10/narodne-novine-8_compressed.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠAVANJU PRORAČUNA HERCEGBOSANSKE ŽUPANIJE ZA 2024. GODINU",
+"gazette": "Narodne novine Hercegbosanske županije 1/2025",
+"date": "2025-01-17",
+"act_no": 2,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://www.vladahbz.com/sadrzaj/slike/objave/2025/02/narodne-novine-1-2025.pdf"
+},
+{
+"act": "O IZVRŠAVANJU PRORAČUNA HERCEGBOSANSKE ŽUPANIJE ZA 2025. GODINU",
+"gazette": "Narodne novine Hercegbosanske županije 1/2025",
+"date": "2025-01-17",
+"act_no": 4,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.vladahbz.com/sadrzaj/slike/objave/2025/02/narodne-novine-1-2025.pdf"
+},
+{
+"act": "O IZMJENI I DOPUNI ZAKONA O IZVRŠAVANJU PRORAČUNA HERCEGBOSANSKE ŽUPANIJE ZA 2025. GODINU",
+"gazette": "Narodne novine Hercegbosanske županije 9/2025",
+"date": "2025-10-13",
+"act_no": 464,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://www.vladahbz.com/sadrzaj/slike/objave/2025/12/narodne-novine-9_compressed.pdf"
+},
+{
+"act": null,
+"gazette": "Narodne novine Hercegbosanske županije, 1997",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "9 issues read, 5 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://www.vladahbz.com/narodne-novine/"
+},
+{
+"act": null,
+"gazette": "Narodne novine Hercegbosanske županije, 1999",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "15 issues read, 10 ZAKON headings printed (all editions counted), 4 image-only issues; 0 laws read",
+"official_url": "https://www.vladahbz.com/narodne-novine/"
+},
+{
+"act": null,
+"gazette": "Narodne novine Hercegbosanske županije, 2002",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "11 issues read, 1 ZAKON headings printed (all editions counted), 1 image-only issues; 0 laws read",
+"official_url": "https://www.vladahbz.com/narodne-novine/"
+},
+{
+"act": null,
+"gazette": "Narodne novine Hercegbosanske županije, 2011",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "8 issues read, 1 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://www.vladahbz.com/narodne-novine/"
+}
+]
+}

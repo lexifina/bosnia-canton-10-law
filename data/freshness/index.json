@@ -1,0 +1,10 @@
+{
+"shards": [
+{
+"shard": "zakon/undated",
+"kind": "zakon",
+"file": "data/freshness/zakon/undated.csv",
+"acts": 48
+}
+]
+}

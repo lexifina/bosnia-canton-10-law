@@ -1,0 +1,17 @@
+{
+ "note": "Update status of this repository, refreshed by every refresh run.",
+ "as_of": "2026-11-11T09:47:01+00:00",
+ "updates": "idle",
+ "last_published": "2026-11-11T12:00:00+01:00",
+ "published_last_24h": {
+  "commits": 1
+ },
+ "official_sources": [
+  {
+   "source": "Narodne novine Hercegbosanske županije",
+   "url": "https://www.vladahbz.com/narodne-novine/",
+   "state": "available",
+   "last_successful_contact": "2026-11-11"
+  }
+ ]
+}

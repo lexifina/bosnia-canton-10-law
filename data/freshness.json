@@ -1,0 +1,89 @@
+{
+ "note": "Freshness of every act in this repository: when it was last checked against its official source, how, and whether a known change is missing. One row per act in data/freshness/<kind>/<year>.csv (listed in data/freshness/index.json); `python tools/freshness.py <act id or folder>` reads them. A status is as of `as_of`; an act verified longer ago than its threshold has since become stale.",
+ "schema": "ba-10-freshness/1",
+ "as_of": "2026-11-11",
+ "checked_against_official_source": "2026-11-11",
+ "statuses": {
+  "current": "checked against the official source within its threshold, and no known change is missing",
+  "pending-change": "the official source reports a change (amendment, repeal) this repository does not have as a consolidated text: the act is held as enacted (or as last consolidated) and labelled",
+  "stale": "not checked within its threshold",
+  "unverified": "never checked against the official source for later changes",
+  "source-unavailable": "due for a check, but the official source has not answered the latest checks"
+ },
+ "methods": {
+  "gazette-index": "The Narodne novine Hercegbosanske županije: the canton's list of issues (https://www.vladahbz.com/narodne-novine/) read that day, every listed issue read (PDF text layer), and every Assembly law in it compared with this repository: a later law that amends, consolidates or repeals an act here is found by its citation of the act's gazette number"
+ },
+ "thresholds": {
+  "laws": {
+   "days": 7,
+   "kinds": [
+    "statut",
+    "ustav",
+    "zakon",
+    "law"
+   ],
+   "label": "the Statute or Constitution and the laws"
+  }
+ },
+ "final": "A repealed act no longer changes: it stays current once checked, with no threshold (its check_due is empty).",
+ "columns": {
+  "act": "the act id (data/paths.json maps it to its folder)",
+  "status": "as of `as_of`",
+  "last_verified": "the day of the last check that confirmed the latest version held here is the newest (UTC)",
+  "check_due": "last_verified plus the threshold: after this day the act is stale unless checked again",
+  "method": "how that check was made (`methods`)",
+  "newest_change": "the newest change the official sources report (an act, by its official title)",
+  "newest_change_date": "its day (its Gazette issue day where known)",
+  "change_in_repo": "yes if this repository has that change applied to the act's text, no if not",
+  "official_url": "the act's page at its official source, to check by hand"
+ },
+ "totals": {
+  "acts": 48,
+  "by_status": {
+   "current": 48,
+   "pending-change": 0,
+   "stale": 0,
+   "unverified": 0,
+   "source-unavailable": 0
+  },
+  "pct_verified_7d": 100.0,
+  "pct_verified_30d": 100.0
+ },
+ "by_group": {
+  "laws": {
+   "acts": 48,
+   "by_status": {
+    "current": 48,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  }
+ },
+ "by_kind": {
+  "zakon": {
+   "acts": 48,
+   "by_status": {
+    "current": 48,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  }
+ },
+ "sources": [
+  {
+   "source": "Narodne novine Hercegbosanske županije",
+   "url": "https://www.vladahbz.com/narodne-novine/",
+   "last_successful_check": "2026-11-11"
+  }
+ ],
+ "index": "data/freshness/index.json",
+ "shards": 1
+}
