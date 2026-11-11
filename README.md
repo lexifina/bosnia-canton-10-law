@@ -12,13 +12,13 @@ The text is in Croatian (Latin script), the language of the gazette's only editi
 
 The canton publishes the Narodne novine Hercegbosanske županije on its site for 1996 to 2025; every issue listed there is read. Of the 108 Assembly laws the reader finds in them, 48 are here (from 1998), as:
 
-- the law as enacted, dated the day it took effect; where later laws in the gazette amend it and no official consolidated text has been published since, it is marked `amended, not consolidated` and the amending laws are named (4 laws);
-- amending laws, each as an act of its own (18);
+- the law as enacted, dated the day it took effect; where later laws in the gazette amend it and no official consolidated text has been published since, it is marked `amended, not consolidated` and the amending laws are named (0 laws);
+- amending laws, each as an act of its own (0);
 - official consolidated texts (prečišćeni tekst), dated the day of their issue (0).
 
-The first build (2026-11-11) holds each law in a folder named by its act id (`zakon-<year>-sn<issue>-<act number>/`, indexed in [data/versions.json](data/versions.json) and [data/laws.csv](data/laws.csv)); laws the refresh runner adds later go to `zakon/<year>/sn<issue>-<act number>/`, indexed under `registry/`.
+The first build (2026-11-11) holds each law in a folder named by its act id (`zakon-<year>-sn<issue>-<act number>/`, indexed in [ACTS.md](ACTS.md) and [data/versions.json](data/versions.json)); laws the refresh runner adds later go to `zakon/<year>/sn<issue>-<act number>/`, indexed under `registry/`.
 
-Held back, with the reason, in [data/held.json](data/held.json) (60 laws): budget laws and laws amending them (temporary), texts that do not split into articles, laws whose in-force clause cannot be read, and texts a second, independent PDF reader does not confirm. Gazette years whose issues the reader cannot yet read (1997, 1999, 2002, 2011) are listed in data/held.json with the reason; their laws are not in the record. For 2000 the Government's page lists only the year's register, no issues; and its link for issue 7/2009 serves the file of issue 8/2009, so issue 7/2009 is not in the record.
+Held back, with the reason, in [data/held.json](data/held.json) (60 laws): budget laws and laws amending them (temporary), texts that do not split into articles, laws whose in-force clause cannot be read, and texts a second, independent PDF reader does not confirm. Gazette years whose issues the reader cannot yet read (1997, 1999, 2002, 2011) are listed in data/held.json with the reason; their laws are not in the record.
 
 ## Source
 
@@ -43,6 +43,7 @@ Canton 10 (Hercegbosanska županija / Kanton 10), <https://www.vladahbz.com/naro
 ## What "author" means
 
 The author of a commit is the law that made it, named by its gazette number, with an e-mail address that cannot exist (`<key>@www.vladahbz.com.invalid`). The committer is always Lexifina.
+
 
 ## Freshness
 

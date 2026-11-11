@@ -40,8 +40,8 @@
  "totals": {
   "acts": 48,
   "by_status": {
-   "current": 48,
-   "pending-change": 0,
+   "current": 44,
+   "pending-change": 4,
    "stale": 0,
    "unverified": 0,
    "source-unavailable": 0
@@ -53,8 +53,8 @@
   "laws": {
    "acts": 48,
    "by_status": {
-    "current": 48,
-    "pending-change": 0,
+    "current": 44,
+    "pending-change": 4,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -67,8 +67,8 @@
   "zakon": {
    "acts": 48,
    "by_status": {
-    "current": 48,
-    "pending-change": 0,
+    "current": 44,
+    "pending-change": 4,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
